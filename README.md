@@ -4,7 +4,7 @@
 
 2) Humidity and cloudiness do not seem to be correlated to latitude as there is a relatively uniform spread across the different latitude points. 
 
-3) The majority of cities have a wind speed under 20 mph.  
+3) The majority of cities have a wind speed below 20 mph.  
 
 
 ```python

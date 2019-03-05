@@ -1735,111 +1735,15 @@ city_samples.head()
 
 
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>City</th>
-      <th>Lat</th>
-      <th>Lng</th>
-      <th>Country</th>
-      <th>Date</th>
-      <th>Max Temp</th>
-      <th>Humidity</th>
-      <th>Cloudiness</th>
-      <th>Wind Speed</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>1</th>
-      <td>seredka</td>
-      <td>58.16</td>
-      <td>28.19</td>
-      <td>RU</td>
-      <td>1513834200</td>
-      <td>28.4</td>
-      <td>92</td>
-      <td>90</td>
-      <td>11.18</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>nikolayevsk-na-amure</td>
-      <td>53.14</td>
-      <td>140.73</td>
-      <td>RU</td>
-      <td>1513836148</td>
-      <td>2.63</td>
-      <td>76</td>
-      <td>32</td>
-      <td>9.33</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>qingdao</td>
-      <td>36.1</td>
-      <td>120.37</td>
-      <td>CN</td>
-      <td>1513832400</td>
-      <td>48.2</td>
-      <td>24</td>
-      <td>0</td>
-      <td>6.71</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>kumukh</td>
-      <td>42.17</td>
-      <td>47.12</td>
-      <td>RU</td>
-      <td>1513836148</td>
-      <td>24.86</td>
-      <td>74</td>
-      <td>8</td>
-      <td>1.16</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>were ilu</td>
-      <td>10.6</td>
-      <td>39.43</td>
-      <td>ET</td>
-      <td>1513836149</td>
-      <td>48.84</td>
-      <td>42</td>
-      <td>0</td>
-      <td>1.95</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div>
-       <style scoped>
-           .dataframe tbody tr th:only-of-type {
-               vertical-align: middle;
-           }
-       
-           .dataframe tbody tr th {
-               vertical-align: top;
-           }
-       
+     <style scoped>
+          .dataframe tbody tr th:only-of-type {
+           vertical-align: middle;
+          }
+          .dataframe tbody tr th {
+          vertical-align: top;
+          }
            .dataframe thead th {
-               text-align: right;
+           text-align: right;
            }
        </style>
        <table border=\"1\" class=\"dataframe\">
@@ -1926,7 +1830,7 @@ city_samples.head()
            </tr>
          </tbody>
        </table>
-       </div>
+ </div>
 
 # Latitude vs Temperature Plot
 

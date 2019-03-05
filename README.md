@@ -1744,7 +1744,6 @@ city_samples.head()
              <th>Lng</th>
              <th>Country</th>
              <th>Date</th>
-             <th>Max Temp(°F)</th>
              <th>Humidity(%)</th>
              <th>Cloudiness(%)</th>
              <th>Wind Speed(mph)</th>

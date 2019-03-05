@@ -1785,7 +1785,7 @@ city_samples.head()
              <td>CD</td>
              <td>1551810017</td>
              <td></td>
-             <td>79.23/td>
+             <td>79.23</td>
              <td>80</td>
              <td>48</td>
              <td>1.92</td>

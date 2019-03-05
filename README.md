@@ -74,10 +74,10 @@ city_samples.head()
       <th>Lng</th>
       <th>Country</th>
       <th>Date</th>
-      <th>Max Temp</th>
-      <th>Humidity</th>
-      <th>Cloudiness</th>
-      <th>Wind Speed</th>
+      <th>Max Temp(°F)</th>
+      <th>Humidity(%)</th>
+      <th>Cloudiness(%)</th>
+      <th>Wind Speed(mph)</th>
     </tr>
   </thead>
   <tbody>

@@ -83,7 +83,7 @@ city_samples.head()
   <tbody>
     <tr>
       <th>1</th>
-      <td>smithers</td>
+      <td>sajoszoged</td>
       <td></td>
       <td></td>
       <td></td>
@@ -95,7 +95,7 @@ city_samples.head()
     </tr>
     <tr>
       <th>2</th>
-      <td>tirat karmel</td>
+      <td>liminangcong</td>
       <td></td>
       <td></td>
       <td></td>
@@ -107,7 +107,7 @@ city_samples.head()
     </tr>
     <tr>
       <th>3</th>
-      <td>igrim</td>
+      <td>tocopilla</td>
       <td></td>
       <td></td>
       <td></td>
@@ -119,7 +119,7 @@ city_samples.head()
     </tr>
     <tr>
       <th>4</th>
-      <td>santa rosa</td>
+      <td>mongoumba</td>
       <td></td>
       <td></td>
       <td></td>
@@ -131,7 +131,7 @@ city_samples.head()
     </tr>
     <tr>
       <th>5</th>
-      <td>cavalcante</td>
+      <td>neokhorion</td>
       <td></td>
       <td></td>
       <td></td>
@@ -196,1506 +196,1507 @@ C:\ProgramData\Anaconda3\lib\site-packages\ipykernel_launcher.py:15: FutureWarni
   from ipykernel import kernelapp as app
 C:\ProgramData\Anaconda3\lib\site-packages\ipykernel_launcher.py:16: FutureWarning: set_value is deprecated and will be removed in a future release. Please use .at[] or .iat[] accessors instead
   app.launch_new_instance()
-Processing City 1 of 750 - Smithers
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=smithers
-Processing City 2 of 750 - Tirat Karmel
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tirat%20karmel
-Processing City 3 of 750 - Igrim
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=igrim
-Processing City 4 of 750 - Santa Rosa
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=santa%20rosa
-Processing City 5 of 750 - Cavalcante
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cavalcante
-Processing City 6 of 750 - Lazo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lazo
-Processing City 7 of 750 - Chodziez
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chodziez
-Processing City 8 of 750 - Zlobin
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zlobin
-Processing City 9 of 750 - Zhongshu
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zhongshu
-Processing City 10 of 750 - Serra
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=serra
-Processing City 11 of 750 - Vygonichi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=vygonichi
-Processing City 12 of 750 - Lagos
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lagos
-Processing City 13 of 750 - Powell River
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=powell%20river
-Processing City 14 of 750 - Safwah
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=safwah
-Processing City 15 of 750 - Midland
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=midland
-Processing City 16 of 750 - Brasileia
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=brasileia
-Processing City 17 of 750 - Badvel
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=badvel
-Processing City 18 of 750 - Anna Paulowna
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=anna%20paulowna
-Processing City 19 of 750 - Pa Sang
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pa%20sang
-Processing City 20 of 750 - Nosy Varika
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nosy%20varika
-Processing City 21 of 750 - Kysyl-Syr
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kysyl-syr
-Processing City 22 of 750 - Quzhou
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=quzhou
-Processing City 23 of 750 - Corpus Christi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=corpus%20christi
-Processing City 24 of 750 - Bella Union
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bella%20union
-Processing City 25 of 750 - Pirgos
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pirgos
-Processing City 26 of 750 - Maningrida
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=maningrida
-Processing City 27 of 750 - Jucurutu
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=jucurutu
-Processing City 28 of 750 - Rach Gia
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rach%20gia
-Processing City 29 of 750 - Tarnow
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tarnow
-Processing City 30 of 750 - Los Alamos
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=los%20alamos
-Processing City 31 of 750 - Grimshaw
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=grimshaw
-Processing City 32 of 750 - Ifakara
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ifakara
-Processing City 33 of 750 - Nynashamn
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nynashamn
-Processing City 34 of 750 - Sao Geraldo Do Araguaia
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sao%20geraldo%20do%20araguaia
-Processing City 35 of 750 - Rio Grande
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rio%20grande
-Processing City 36 of 750 - Mudbidri
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mudbidri
-Processing City 37 of 750 - Bondoukou
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bondoukou
-Processing City 38 of 750 - Windsor
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=windsor
-Processing City 39 of 750 - Rajo Khanani
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rajo%20khanani
-Processing City 40 of 750 - Cienaga
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cienaga
-Processing City 41 of 750 - Neuruppin
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=neuruppin
-Processing City 42 of 750 - Smolensk
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=smolensk
-Processing City 43 of 750 - Mega
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mega
-Processing City 44 of 750 - Plouzane
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=plouzane
-Processing City 45 of 750 - Dawei
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dawei
-Processing City 46 of 750 - Kamiiso
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kamiiso
-Processing City 47 of 750 - Gordeyevka
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gordeyevka
-Processing City 48 of 750 - Darlawn
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=darlawn
-Processing City 49 of 750 - Khagrachari
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=khagrachari
-Processing City 50 of 750 - Kankaanpaa
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kankaanpaa
-Processing City 51 of 750 - Stavropol
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=stavropol
-Processing City 52 of 750 - Newport
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=newport
-Processing City 53 of 750 - Lunenburg
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lunenburg
-Processing City 54 of 750 - North Myrtle Beach
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=north%20myrtle%20beach
-Processing City 55 of 750 - Wencheng
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=wencheng
-Processing City 56 of 750 - Sokoni
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sokoni
-Processing City 57 of 750 - Yuzhno-Kurilsk
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yuzhno-kurilsk
-Processing City 58 of 750 - Muyezerskiy
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=muyezerskiy
-Processing City 59 of 750 - Pimentel
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pimentel
-Processing City 60 of 750 - Aviles
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=aviles
-Processing City 61 of 750 - Moundsville
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=moundsville
-Processing City 62 of 750 - Cervo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cervo
-Processing City 63 of 750 - Cabras
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cabras
-Processing City 64 of 750 - Seydi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=seydi
-Processing City 65 of 750 - Suileng
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=suileng
-Processing City 66 of 750 - Garden Acres
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=garden%20acres
-Processing City 67 of 750 - Tomelloso
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tomelloso
-Processing City 68 of 750 - Nigde
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nigde
-Processing City 69 of 750 - Kaili
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kaili
-Processing City 70 of 750 - Mitu
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mitu
-Processing City 71 of 750 - Suwalki
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=suwalki
-Processing City 72 of 750 - Makkaveyevo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=makkaveyevo
-Processing City 73 of 750 - Ahar
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ahar
-Processing City 74 of 750 - Nakhon Phanom
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nakhon%20phanom
-Processing City 75 of 750 - Bow Island
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bow%20island
-Processing City 76 of 750 - Simbahan
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=simbahan
-Processing City 77 of 750 - El Dorado
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=el%20dorado
-Processing City 78 of 750 - Kinanah
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kinanah
-Processing City 79 of 750 - Saint-Jean-De-Braye
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=saint-jean-de-braye
-Processing City 80 of 750 - Senj
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=senj
-Processing City 81 of 750 - Gombong
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gombong
-Processing City 82 of 750 - Bitam
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bitam
-Processing City 83 of 750 - Mpika
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mpika
-Processing City 84 of 750 - Las Cruces
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=las%20cruces
-Processing City 85 of 750 - Ganganagar
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ganganagar
-Processing City 86 of 750 - Duminichi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=duminichi
-Processing City 87 of 750 - Snasa
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=snasa
-Processing City 88 of 750 - Uray
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=uray
-Processing City 89 of 750 - Rutigliano
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rutigliano
-Processing City 90 of 750 - Hazleton
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hazleton
-Processing City 91 of 750 - Lewistown
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lewistown
-Processing City 92 of 750 - Massaguet
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=massaguet
-Processing City 93 of 750 - Danilov
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=danilov
-Processing City 94 of 750 - Geresk
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=geresk
-Processing City 95 of 750 - Alpena
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=alpena
-Processing City 96 of 750 - Quebo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=quebo
-Processing City 97 of 750 - Mergui
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mergui
-Processing City 98 of 750 - Kabalo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kabalo
-Processing City 99 of 750 - Marau
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=marau
-Processing City 100 of 750 - Uarini
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=uarini
-Processing City 101 of 750 - Cerinza
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cerinza
-Processing City 102 of 750 - Petropavlovsk-Kamchatskiy
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=petropavlovsk-kamchatskiy
-Processing City 103 of 750 - Kyaikto
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kyaikto
-Processing City 104 of 750 - Vila Do Maio
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=vila%20do%20maio
-Processing City 105 of 750 - Mankono
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mankono
-Processing City 106 of 750 - Barrow
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=barrow
-Processing City 107 of 750 - Bubaque
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bubaque
-Processing City 108 of 750 - Zhanakorgan
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zhanakorgan
-Processing City 109 of 750 - Buriti Alegre
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=buriti%20alegre
-Processing City 110 of 750 - Ximei
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ximei
-Processing City 111 of 750 - Werneck
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=werneck
-Processing City 112 of 750 - Arkhara
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=arkhara
-Processing City 113 of 750 - Nemuro
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nemuro
-Processing City 114 of 750 - Butler
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=butler
-Processing City 115 of 750 - Primo Tapia
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=primo%20tapia
-Processing City 116 of 750 - Kidal
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kidal
-Processing City 117 of 750 - Bang Saphan
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bang%20saphan
-Processing City 118 of 750 - Arona
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=arona
-Processing City 119 of 750 - Nawa
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nawa
-Processing City 120 of 750 - Huangmei
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=huangmei
-Processing City 121 of 750 - Lobito
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lobito
-Processing City 122 of 750 - Mairana
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mairana
-Processing City 123 of 750 - Kahone
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kahone
-Processing City 124 of 750 - Tunduru
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tunduru
-Processing City 125 of 750 - Guiyang
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=guiyang
-Processing City 126 of 750 - Willmar
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=willmar
-Processing City 127 of 750 - Truth Or Consequences
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=truth%20or%20consequences
-Processing City 128 of 750 - Zanesville
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zanesville
-Processing City 129 of 750 - Sesheke
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sesheke
-Processing City 130 of 750 - Vikulovo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=vikulovo
-Processing City 131 of 750 - Santa Fe
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=santa%20fe
-Processing City 132 of 750 - Shevchenkove
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=shevchenkove
-Processing City 133 of 750 - Shetpe
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=shetpe
-Processing City 134 of 750 - Ust-Kalmanka
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ust-kalmanka
-Processing City 135 of 750 - Phalombe
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=phalombe
-Processing City 136 of 750 - Orange
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=orange
-Processing City 137 of 750 - Canmore
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=canmore
-Processing City 138 of 750 - Frederiksvaerk
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=frederiksvaerk
-Processing City 139 of 750 - Gillette
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gillette
-Processing City 140 of 750 - Kem
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kem
-Processing City 141 of 750 - Gemena
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gemena
-Processing City 142 of 750 - Rudnogorsk
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rudnogorsk
-Processing City 143 of 750 - That Phanom
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=that%20phanom
-Processing City 144 of 750 - Delvine
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=delvine
-Processing City 145 of 750 - Polovinnoye
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=polovinnoye
-Processing City 146 of 750 - Manosque
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=manosque
-Processing City 147 of 750 - Chinique
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chinique
-Processing City 148 of 750 - Qandala
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=qandala
-Processing City 149 of 750 - Hansi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hansi
-Processing City 150 of 750 - Caramoran
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=caramoran
-Processing City 151 of 750 - Eyl
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=eyl
-Processing City 152 of 750 - Malm
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=malm
-Processing City 153 of 750 - Manaia
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=manaia
-Processing City 154 of 750 - Montrose
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=montrose
-Processing City 155 of 750 - Swan River
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=swan%20river
-Processing City 156 of 750 - Poyarkovo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=poyarkovo
-Processing City 157 of 750 - Angermunde
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=angermunde
-Processing City 158 of 750 - Hit
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hit
-Processing City 159 of 750 - Muslyumovo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=muslyumovo
-Processing City 160 of 750 - Ishlei
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ishlei
-Processing City 161 of 750 - Salekhard
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=salekhard
-Processing City 162 of 750 - Kuandian
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kuandian
-Processing City 163 of 750 - Vendome
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=vendome
-Processing City 164 of 750 - Choucheng
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=choucheng
-Processing City 165 of 750 - New Ulm
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=new%20ulm
-Processing City 166 of 750 - Haripur
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=haripur
-Processing City 167 of 750 - Mantua
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mantua
-Processing City 168 of 750 - Aleksandrov Gay
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=aleksandrov%20gay
-Processing City 169 of 750 - Serebryanyy Bor
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=serebryanyy%20bor
-Processing City 170 of 750 - Emerald
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=emerald
-Processing City 171 of 750 - Morris
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=morris
-Processing City 172 of 750 - Awjilah
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=awjilah
-Processing City 173 of 750 - Epernay
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=epernay
-Processing City 174 of 750 - Etla
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=etla
-Processing City 175 of 750 - Capao Bonito
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=capao%20bonito
-Processing City 176 of 750 - Pervomayskiy
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pervomayskiy
-Processing City 177 of 750 - Steinbach
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=steinbach
-Processing City 178 of 750 - Itapora
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=itapora
-Processing City 179 of 750 - Sinjar
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sinjar
-Processing City 180 of 750 - Kumano
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kumano
-Processing City 181 of 750 - Belyy
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=belyy
-Processing City 182 of 750 - Wahpeton
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=wahpeton
-Processing City 183 of 750 - Kaitangata
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kaitangata
-Processing City 184 of 750 - Ojhar
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ojhar
-Processing City 185 of 750 - Gbadolite
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gbadolite
-Processing City 186 of 750 - Adre
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=adre
-Processing City 187 of 750 - Peniche
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=peniche
-Processing City 188 of 750 - Beloha
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=beloha
-Processing City 189 of 750 - Stryn
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=stryn
-Processing City 190 of 750 - Saint-Raphael
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=saint-raphael
-Processing City 191 of 750 - Sakti
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sakti
-Processing City 192 of 750 - Mason City
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mason%20city
-Processing City 193 of 750 - Hecelchakan
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hecelchakan
-Processing City 194 of 750 - Zelenogorskiy
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zelenogorskiy
-Processing City 195 of 750 - Ichhawar
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ichhawar
-Processing City 196 of 750 - Kirensk
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kirensk
-Processing City 197 of 750 - Kinsale
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kinsale
-Processing City 198 of 750 - Miram Shah
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=miram%20shah
-Processing City 199 of 750 - Bustonkala
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bustonkala
-Processing City 200 of 750 - La Peca
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=la%20peca
-Processing City 201 of 750 - Diofior
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=diofior
-Processing City 202 of 750 - Nyamuswa
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nyamuswa
-Processing City 203 of 750 - Huron
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=huron
-Processing City 204 of 750 - Manono
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=manono
-Processing City 205 of 750 - Rumoi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rumoi
-Processing City 206 of 750 - Argentan
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=argentan
-Processing City 207 of 750 - Linchuan
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=linchuan
-Processing City 208 of 750 - Tzucacab
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tzucacab
-Processing City 209 of 750 - Hondo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hondo
-Processing City 210 of 750 - Lowestoft
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lowestoft
-Processing City 211 of 750 - Ruswil
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ruswil
-Processing City 212 of 750 - Holice
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=holice
-Processing City 213 of 750 - Kez
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kez
-Processing City 214 of 750 - Sangin
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sangin
-Processing City 215 of 750 - Colonial Heights
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=colonial%20heights
-Processing City 216 of 750 - Zhengjiatun
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zhengjiatun
-Processing City 217 of 750 - Qujing
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=qujing
-Processing City 218 of 750 - Mahajanga
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mahajanga
-Processing City 219 of 750 - Mudon
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mudon
-Processing City 220 of 750 - Kargasok
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kargasok
-Processing City 221 of 750 - Urubicha
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=urubicha
-Processing City 222 of 750 - Kazachinskoye
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kazachinskoye
-Processing City 223 of 750 - Melita
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=melita
-Processing City 224 of 750 - Arkadelphia
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=arkadelphia
-Processing City 225 of 750 - Bordighera
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bordighera
-Processing City 226 of 750 - San Narciso
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=san%20narciso
-Processing City 227 of 750 - Gagnoa
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gagnoa
-Processing City 228 of 750 - Olbia
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=olbia
-Processing City 229 of 750 - Posse
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=posse
-Processing City 230 of 750 - Sandpoint
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sandpoint
-Processing City 231 of 750 - Vanimo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=vanimo
-Processing City 232 of 750 - Santa Teresa
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=santa%20teresa
-Processing City 233 of 750 - Xuanhua
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=xuanhua
-Processing City 234 of 750 - Point Pleasant
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=point%20pleasant
-Processing City 235 of 750 - Fushe-Arrez
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=fushe-arrez
-Processing City 236 of 750 - Nanortalik
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nanortalik
-Processing City 237 of 750 - Batken
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=batken
-Processing City 238 of 750 - Micheweni
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=micheweni
-Processing City 239 of 750 - Les Escoumins
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=les%20escoumins
-Processing City 240 of 750 - Masindi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=masindi
-Processing City 241 of 750 - Badulla
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=badulla
-Processing City 242 of 750 - Carbonear
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=carbonear
-Processing City 243 of 750 - Werda
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=werda
-Processing City 244 of 750 - Barra
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=barra
-Processing City 245 of 750 - Almeirim
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=almeirim
-Processing City 246 of 750 - Caramay
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=caramay
-Processing City 247 of 750 - Thurso
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=thurso
-Processing City 248 of 750 - Salina
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=salina
-Processing City 249 of 750 - San Angelo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=san%20angelo
-Processing City 250 of 750 - Pokrovsk
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pokrovsk
-Processing City 251 of 750 - Synya
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=synya
-Processing City 252 of 750 - Kosjeric
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kosjeric
-Processing City 253 of 750 - Sinait
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sinait
-Processing City 254 of 750 - Manica
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=manica
-Processing City 255 of 750 - Nkongsamba
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nkongsamba
-Processing City 256 of 750 - Sveti Nikole
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sveti%20nikole
-Processing City 257 of 750 - Stulovo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=stulovo
-Processing City 258 of 750 - Dzaoudzi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dzaoudzi
-Processing City 259 of 750 - Healdsburg
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=healdsburg
-Processing City 260 of 750 - Gualeguay
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gualeguay
-Processing City 261 of 750 - Wuwei
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=wuwei
-Processing City 262 of 750 - Plettenberg Bay
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=plettenberg%20bay
-Processing City 263 of 750 - Mutoko
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mutoko
-Processing City 264 of 750 - Dharchula
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dharchula
-Processing City 265 of 750 - Busayra
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=busayra
-Processing City 266 of 750 - Coatesville
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=coatesville
-Processing City 267 of 750 - Bang Lamung
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bang%20lamung
-Processing City 268 of 750 - Jaramana
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=jaramana
-Processing City 269 of 750 - Guelengdeng
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=guelengdeng
-Processing City 270 of 750 - Bakhmach
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bakhmach
-Processing City 271 of 750 - Lebanon
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lebanon
-Processing City 272 of 750 - Petropavlovka
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=petropavlovka
-Processing City 273 of 750 - Ouidah
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ouidah
-Processing City 274 of 750 - Chirongui
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chirongui
-Processing City 275 of 750 - Birin
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=birin
-Processing City 276 of 750 - Las Varas
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=las%20varas
-Processing City 277 of 750 - Adrar
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=adrar
-Processing City 278 of 750 - Capitan Bado
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=capitan%20bado
-Processing City 279 of 750 - Mukhen
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mukhen
-Processing City 280 of 750 - Bundaberg
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bundaberg
-Processing City 281 of 750 - Osypenko
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=osypenko
-Processing City 282 of 750 - Deputatskiy
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=deputatskiy
-Processing City 283 of 750 - Tapejara
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tapejara
-Processing City 284 of 750 - Lingao
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lingao
-Processing City 285 of 750 - Tiebissou
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tiebissou
-Processing City 286 of 750 - Malacacheta
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=malacacheta
-Processing City 287 of 750 - Hebi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hebi
-Processing City 288 of 750 - Tarko-Sale
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tarko-sale
-Processing City 289 of 750 - Minsk
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=minsk
-Processing City 290 of 750 - Kota Belud
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kota%20belud
-Processing City 291 of 750 - Beyneu
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=beyneu
-Processing City 292 of 750 - Yulin
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yulin
-Processing City 293 of 750 - Wangou
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=wangou
-Processing City 294 of 750 - Sudak
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sudak
-Processing City 295 of 750 - Boyuibe
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=boyuibe
-Processing City 296 of 750 - Rajampet
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rajampet
-Processing City 297 of 750 - Abomey
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=abomey
-Processing City 298 of 750 - Kashary
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kashary
-Processing City 299 of 750 - Nybro
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nybro
-Processing City 300 of 750 - Raipur
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=raipur
-Processing City 301 of 750 - Mahenge
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mahenge
-Processing City 302 of 750 - Pirenopolis
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pirenopolis
-Processing City 303 of 750 - Debre Tabor
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=debre%20tabor
-Processing City 304 of 750 - Bobrov
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bobrov
-Processing City 305 of 750 - Gopalpur
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gopalpur
-Processing City 306 of 750 - Kutahya
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kutahya
-Processing City 307 of 750 - Canutama
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=canutama
-Processing City 308 of 750 - Talara
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=talara
-Processing City 309 of 750 - Shizilu
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=shizilu
-Processing City 310 of 750 - Jurm
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=jurm
-Processing City 311 of 750 - Helong
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=helong
-Processing City 312 of 750 - Kungalv
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kungalv
-Processing City 313 of 750 - Ipatovo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ipatovo
-Processing City 314 of 750 - Angol
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=angol
-Processing City 315 of 750 - Angren
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=angren
-Processing City 316 of 750 - Kaspiysk
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kaspiysk
-Processing City 317 of 750 - Iisalmi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=iisalmi
-Processing City 318 of 750 - Cumana
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cumana
-Processing City 319 of 750 - Azrow
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=azrow
-Processing City 320 of 750 - Maneadero
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=maneadero
-Processing City 321 of 750 - Miranorte
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=miranorte
-Processing City 322 of 750 - Novouzensk
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=novouzensk
-Processing City 323 of 750 - Pondicherry
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pondicherry
-Processing City 324 of 750 - Cotui
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cotui
-Processing City 325 of 750 - Benicarlo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=benicarlo
-Processing City 326 of 750 - Jieshou
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=jieshou
-Processing City 327 of 750 - Williston
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=williston
-Processing City 328 of 750 - Seligenstadt
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=seligenstadt
-Processing City 329 of 750 - Izhmorskiy
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=izhmorskiy
-Processing City 330 of 750 - Holme
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=holme
-Processing City 331 of 750 - Liwale
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=liwale
-Processing City 332 of 750 - Boshnyakovo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=boshnyakovo
-Processing City 333 of 750 - Snihurivka
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=snihurivka
-Processing City 334 of 750 - Ambodifototra
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ambodifototra
-Processing City 335 of 750 - Toora-Khem
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=toora-khem
-Processing City 336 of 750 - Nalgonda
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nalgonda
-Processing City 337 of 750 - Touros
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=touros
-Processing City 338 of 750 - La Asuncion
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=la%20asuncion
-Processing City 339 of 750 - Talavera De La Reina
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=talavera%20de%20la%20reina
-Processing City 340 of 750 - Tsaratanana
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tsaratanana
-Processing City 341 of 750 - Gympie
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gympie
-Processing City 342 of 750 - Mehndawal
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mehndawal
-Processing City 343 of 750 - Leshukonskoye
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=leshukonskoye
-Processing City 344 of 750 - Amga
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=amga
-Processing City 345 of 750 - Addi Ugri
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=addi%20ugri
-Processing City 346 of 750 - Zaraza
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zaraza
-Processing City 347 of 750 - Diu
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=diu
-Processing City 348 of 750 - Bunbury
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bunbury
-Processing City 349 of 750 - Chepo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chepo
-Processing City 350 of 750 - Petrozavodsk
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=petrozavodsk
-Processing City 351 of 750 - Ibiapina
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ibiapina
-Processing City 352 of 750 - Numan
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=numan
-Processing City 353 of 750 - Lesnoy
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lesnoy
-Processing City 354 of 750 - Lang Suan
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lang%20suan
-Processing City 355 of 750 - Kankan
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kankan
-Processing City 356 of 750 - Soe
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=soe
-Processing City 357 of 750 - Viking
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=viking
-Processing City 358 of 750 - Orje
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=orje
-Processing City 359 of 750 - Barao De Melgaco
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=barao%20de%20melgaco
-Processing City 360 of 750 - Ibate
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ibate
-Processing City 361 of 750 - Gistrup
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gistrup
-Processing City 362 of 750 - Cehegin
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cehegin
-Processing City 363 of 750 - Lewisville
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lewisville
-Processing City 364 of 750 - Karamken
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=karamken
-Processing City 365 of 750 - Mineral Wells
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mineral%20wells
-Processing City 366 of 750 - Kuvshinovo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kuvshinovo
-Processing City 367 of 750 - Zasechnoye
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zasechnoye
-Processing City 368 of 750 - The Pas
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=the%20pas
-Processing City 369 of 750 - Aswan
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=aswan
-Processing City 370 of 750 - Tarakan
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tarakan
-Processing City 371 of 750 - La Baneza
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=la%20baneza
-Processing City 372 of 750 - Tha Mai
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tha%20mai
-Processing City 373 of 750 - Sao Raimundo Nonato
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sao%20raimundo%20nonato
-Processing City 374 of 750 - Rockport
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rockport
-Processing City 375 of 750 - Tamulte
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tamulte
-Processing City 376 of 750 - Bela Vista
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bela%20vista
-Processing City 377 of 750 - South Sioux City
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=south%20sioux%20city
-Processing City 378 of 750 - Brcko
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=brcko
-Processing City 379 of 750 - Norsup
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=norsup
-Processing City 380 of 750 - Can Tho
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=can%20tho
-Processing City 381 of 750 - Kilis
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kilis
-Processing City 382 of 750 - Boguchany
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=boguchany
-Processing City 383 of 750 - Najran
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=najran
-Processing City 384 of 750 - Aykhal
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=aykhal
-Processing City 385 of 750 - Zalaszentgrot
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zalaszentgrot
-Processing City 386 of 750 - Srandakan
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=srandakan
-Processing City 387 of 750 - Camacha
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=camacha
-Processing City 388 of 750 - Diosjeno
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=diosjeno
-Processing City 389 of 750 - Riyaq
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=riyaq
-Processing City 390 of 750 - Scottsboro
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=scottsboro
-Processing City 391 of 750 - Gayeri
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gayeri
-Processing City 392 of 750 - Montego Bay
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=montego%20bay
-Processing City 393 of 750 - Athy
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=athy
-Processing City 394 of 750 - Arkhipo-Osipovka
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=arkhipo-osipovka
-Processing City 395 of 750 - Dunayivtsi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dunayivtsi
-Processing City 396 of 750 - Menzelinsk
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=menzelinsk
-Processing City 397 of 750 - Lenine
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lenine
-Processing City 398 of 750 - Higuey
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=higuey
-Processing City 399 of 750 - Inderborskiy
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=inderborskiy
-Processing City 400 of 750 - Effingham
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=effingham
-Processing City 401 of 750 - Namanyere
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=namanyere
-Processing City 402 of 750 - Sovetskaya
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sovetskaya
-Processing City 403 of 750 - Mormugao
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mormugao
-Processing City 404 of 750 - Amozoc
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=amozoc
-Processing City 405 of 750 - Nizhniy Bestyakh
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nizhniy%20bestyakh
-Processing City 406 of 750 - Otane
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=otane
-Processing City 407 of 750 - Kibaya
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kibaya
-Processing City 408 of 750 - Excelsior Springs
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=excelsior%20springs
-Processing City 409 of 750 - Terenos
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=terenos
-Processing City 410 of 750 - Zverinogolovskoye
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zverinogolovskoye
-Processing City 411 of 750 - Kilembe
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kilembe
-Processing City 412 of 750 - Tevaitoa
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tevaitoa
-Processing City 413 of 750 - Pleshanovo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pleshanovo
-Processing City 414 of 750 - Owensboro
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=owensboro
-Processing City 415 of 750 - Itoman
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=itoman
-Processing City 416 of 750 - Gerash
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gerash
-Processing City 417 of 750 - Amarante Do Maranhao
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=amarante%20do%20maranhao
-Processing City 418 of 750 - Lukulu
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lukulu
-Processing City 419 of 750 - Walla Walla
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=walla%20walla
-Processing City 420 of 750 - Hakkari
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hakkari
-Processing City 421 of 750 - Kariya
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kariya
-Processing City 422 of 750 - Votkinsk
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=votkinsk
-Processing City 423 of 750 - Coldwater
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=coldwater
-Processing City 424 of 750 - Loutros
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=loutros
-Processing City 425 of 750 - Pyaozerskiy
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pyaozerskiy
-Processing City 426 of 750 - Mporokoso
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mporokoso
-Processing City 427 of 750 - Chicama
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chicama
-Processing City 428 of 750 - Novochernorechenskiy
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=novochernorechenskiy
-Processing City 429 of 750 - Devrek
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=devrek
-Processing City 430 of 750 - Upig
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=upig
-Processing City 431 of 750 - Batagay-Alyta
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=batagay-alyta
-Processing City 432 of 750 - Pousat
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pousat
-Processing City 433 of 750 - Chagda
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chagda
-Processing City 434 of 750 - Cheremkhovo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cheremkhovo
-Processing City 435 of 750 - Logumkloster
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=logumkloster
-Processing City 436 of 750 - Rangoon
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rangoon
-Processing City 437 of 750 - Gondanglegi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gondanglegi
-Processing City 438 of 750 - Winchester
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=winchester
-Processing City 439 of 750 - Xinzhi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=xinzhi
-Processing City 440 of 750 - Bom Jesus
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bom%20jesus
-Processing City 441 of 750 - Cam Pha
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cam%20pha
-Processing City 442 of 750 - Tobane
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tobane
-Processing City 443 of 750 - Bayir
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bayir
-Processing City 444 of 750 - Tacuarembo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tacuarembo
-Processing City 445 of 750 - Hendaye
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hendaye
-Processing City 446 of 750 - Casablanca
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=casablanca
-Processing City 447 of 750 - Nizhniy Tsasuchey
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nizhniy%20tsasuchey
-Processing City 448 of 750 - Pozo Colorado
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pozo%20colorado
-Processing City 449 of 750 - Suleja
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=suleja
-Processing City 450 of 750 - Gunnedah
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gunnedah
-Processing City 451 of 750 - Znamenskoye
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=znamenskoye
-Processing City 452 of 750 - Longview
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=longview
-Processing City 453 of 750 - Caucasia
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=caucasia
-Processing City 454 of 750 - Burica
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=burica
-Processing City 455 of 750 - Gescher
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gescher
-Processing City 456 of 750 - Campo Verde
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=campo%20verde
-Processing City 457 of 750 - Hutchinson
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hutchinson
-Processing City 458 of 750 - Yhu
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yhu
-Processing City 459 of 750 - Nalut
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nalut
-Processing City 460 of 750 - Alyangula
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=alyangula
-Processing City 461 of 750 - Jaru
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=jaru
-Processing City 462 of 750 - Pilar
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pilar
-Processing City 463 of 750 - Tengzhou
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tengzhou
-Processing City 464 of 750 - San Mateo Del Mar
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=san%20mateo%20del%20mar
-Processing City 465 of 750 - Huangpi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=huangpi
-Processing City 466 of 750 - Belaya Glina
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=belaya%20glina
-Processing City 467 of 750 - Plaridel
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=plaridel
-Processing City 468 of 750 - Caracuaro
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=caracuaro
-Processing City 469 of 750 - Bukama
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bukama
-Processing City 470 of 750 - Glyadyanskoye
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=glyadyanskoye
-Processing City 471 of 750 - Alto Araguaia
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=alto%20araguaia
-Processing City 472 of 750 - Subtanjalla
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=subtanjalla
-Processing City 473 of 750 - Brumunddal
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=brumunddal
-Processing City 474 of 750 - Superior
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=superior
-Processing City 475 of 750 - Corinto
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=corinto
-Processing City 476 of 750 - Omsukchan
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=omsukchan
-Processing City 477 of 750 - Krabi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=krabi
-Processing City 478 of 750 - Opobo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=opobo
-Processing City 479 of 750 - Katsiveli
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=katsiveli
-Processing City 480 of 750 - Ayan
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ayan
-Processing City 481 of 750 - Torrox
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=torrox
-Processing City 482 of 750 - Copacabana
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=copacabana
-Processing City 483 of 750 - Grand Forks
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=grand%20forks
-Processing City 484 of 750 - Tranas
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tranas
-Processing City 485 of 750 - Wainwright
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=wainwright
-Processing City 486 of 750 - Amod
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=amod
-Processing City 487 of 750 - Qazvin
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=qazvin
-Processing City 488 of 750 - Rahon
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rahon
-Processing City 489 of 750 - Yauya
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yauya
-Processing City 490 of 750 - Rorvik
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rorvik
-Processing City 491 of 750 - La Ciotat
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=la%20ciotat
-Processing City 492 of 750 - Abu Zabad
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=abu%20zabad
-Processing City 493 of 750 - Mandan
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mandan
-Processing City 494 of 750 - Masvingo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=masvingo
-Processing City 495 of 750 - Kilkis
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kilkis
-Processing City 496 of 750 - Valkeala
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=valkeala
-Processing City 497 of 750 - Severo-Yeniseyskiy
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=severo-yeniseyskiy
-Processing City 498 of 750 - Sandy Bay
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sandy%20bay
-Processing City 499 of 750 - Pishin
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pishin
-Processing City 500 of 750 - Fengrun
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=fengrun
-Processing City 501 of 750 - Hattiesburg
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hattiesburg
-Processing City 502 of 750 - Manicore
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=manicore
-Processing City 503 of 750 - Imabari
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=imabari
-Processing City 504 of 750 - Gamboula
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gamboula
-Processing City 505 of 750 - Dzhebariki-Khaya
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dzhebariki-khaya
-Processing City 506 of 750 - Onguday
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=onguday
-Processing City 507 of 750 - Megion
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=megion
-Processing City 508 of 750 - Kupino
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kupino
-Processing City 509 of 750 - Boone
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=boone
-Processing City 510 of 750 - Bethanien
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bethanien
-Processing City 511 of 750 - Marawi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=marawi
-Processing City 512 of 750 - Laem Sing
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=laem%20sing
-Processing City 513 of 750 - Amalner
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=amalner
-Processing City 514 of 750 - Ayna
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ayna
-Processing City 515 of 750 - Nelson
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nelson
-Processing City 516 of 750 - George Town
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=george%20town
-Processing City 517 of 750 - Kokstad
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kokstad
-Processing City 518 of 750 - Chirkey
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chirkey
-Processing City 519 of 750 - Chik
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chik
-Processing City 520 of 750 - Ferkessedougou
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ferkessedougou
-Processing City 521 of 750 - Vernon
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=vernon
-Processing City 522 of 750 - Minna
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=minna
-Processing City 523 of 750 - Wilmington Island
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=wilmington%20island
-Processing City 524 of 750 - Imeni Poliny Osipenko
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=imeni%20poliny%20osipenko
-Processing City 525 of 750 - Rapid Valley
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rapid%20valley
-Processing City 526 of 750 - Whitehaven
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=whitehaven
-Processing City 527 of 750 - Wanganui
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=wanganui
-Processing City 528 of 750 - Ketchikan
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ketchikan
-Processing City 529 of 750 - Gwadar
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gwadar
-Processing City 530 of 750 - San Patricio
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=san%20patricio
-Processing City 531 of 750 - Paramirim
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=paramirim
-Processing City 532 of 750 - Asenovgrad
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=asenovgrad
-Processing City 533 of 750 - Biltine
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=biltine
-Processing City 534 of 750 - Tumen
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tumen
-Processing City 535 of 750 - Rodrigues Alves
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rodrigues%20alves
-Processing City 536 of 750 - Hwange
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hwange
-Processing City 537 of 750 - Tarancon
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tarancon
-Processing City 538 of 750 - Santo Antonio Do Leverger
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=santo%20antonio%20do%20leverger
-Processing City 539 of 750 - San Ignacio
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=san%20ignacio
-Processing City 540 of 750 - Presidente Venceslau
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=presidente%20venceslau
-Processing City 541 of 750 - Gobo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gobo
-Processing City 542 of 750 - Madison
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=madison
-Processing City 543 of 750 - Lyubech
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lyubech
-Processing City 544 of 750 - Woodward
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=woodward
-Processing City 545 of 750 - Garowe
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=garowe
-Processing City 546 of 750 - Butte
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=butte
-Processing City 547 of 750 - Hanzhong
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hanzhong
-Processing City 548 of 750 - Sooke
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sooke
-Processing City 549 of 750 - Yerofey Pavlovich
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yerofey%20pavlovich
-Processing City 550 of 750 - Shirokiy
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=shirokiy
-Processing City 551 of 750 - Tamsweg
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tamsweg
-Processing City 552 of 750 - La Seyne-Sur-Mer
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=la%20seyne-sur-mer
-Processing City 553 of 750 - Panama City
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=panama%20city
-Processing City 554 of 750 - Turgoyak
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=turgoyak
-Processing City 555 of 750 - Novobiryusinskiy
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=novobiryusinskiy
-Processing City 556 of 750 - Dodola
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dodola
-Processing City 557 of 750 - Mitzic
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mitzic
-Processing City 558 of 750 - Idil
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=idil
-Processing City 559 of 750 - Bialogard
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bialogard
-Processing City 560 of 750 - Elk Point
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=elk%20point
-Processing City 561 of 750 - Erzurum
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=erzurum
-Processing City 562 of 750 - Mortka
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mortka
-Processing City 563 of 750 - Nguruka
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nguruka
-Processing City 564 of 750 - Sanghar
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sanghar
-Processing City 565 of 750 - Jeremie
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=jeremie
-Processing City 566 of 750 - Susehri
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=susehri
-Processing City 567 of 750 - Sakakah
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sakakah
-Processing City 568 of 750 - Albacete
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=albacete
-Processing City 569 of 750 - Tabarqah
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tabarqah
-Processing City 570 of 750 - Grandview
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=grandview
-Processing City 571 of 750 - Don Sak
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=don%20sak
-Processing City 572 of 750 - Upernavik
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=upernavik
-Processing City 573 of 750 - Kalmar
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kalmar
-Processing City 574 of 750 - Curuca
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=curuca
-Processing City 575 of 750 - Jumla
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=jumla
-Processing City 576 of 750 - Marfino
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=marfino
-Processing City 577 of 750 - Camacupa
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=camacupa
-Processing City 578 of 750 - Mirnyy
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mirnyy
-Processing City 579 of 750 - Panguna
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=panguna
-Processing City 580 of 750 - El Alto
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=el%20alto
-Processing City 581 of 750 - Kentau
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kentau
-Processing City 582 of 750 - Rancho Palos Verdes
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rancho%20palos%20verdes
-Processing City 583 of 750 - Tekeli
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tekeli
-Processing City 584 of 750 - Mpongwe
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mpongwe
-Processing City 585 of 750 - Gorin
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gorin
-Processing City 586 of 750 - Labytnangi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=labytnangi
-Processing City 587 of 750 - Camara De Lobos
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=camara%20de%20lobos
-Processing City 588 of 750 - Kigoma
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kigoma
-Processing City 589 of 750 - Eufaula
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=eufaula
-Processing City 590 of 750 - Hollins
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hollins
-Processing City 591 of 750 - Abai
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=abai
-Processing City 592 of 750 - Netrakona
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=netrakona
-Processing City 593 of 750 - Calafat
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=calafat
-Processing City 594 of 750 - Pankrushikha
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pankrushikha
-Processing City 595 of 750 - Susner
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=susner
-Processing City 596 of 750 - De-Kastri
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=de-kastri
-Processing City 597 of 750 - Schruns
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=schruns
-Processing City 598 of 750 - Anar Darreh
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=anar%20darreh
-Processing City 599 of 750 - Dong Hoi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dong%20hoi
-Processing City 600 of 750 - Soria
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=soria
-Processing City 601 of 750 - Viganello
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=viganello
-Processing City 602 of 750 - Zilupe
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zilupe
-Processing City 603 of 750 - Petauke
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=petauke
-Processing City 604 of 750 - Autun
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=autun
-Processing City 605 of 750 - Sawakin
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sawakin
-Processing City 606 of 750 - Mehamn
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mehamn
-Processing City 607 of 750 - Paracuru
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=paracuru
-Processing City 608 of 750 - Bamora
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bamora
-Processing City 609 of 750 - Picota
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=picota
-Processing City 610 of 750 - Szalkszentmarton
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=szalkszentmarton
-Processing City 611 of 750 - Tashara
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tashara
-Processing City 612 of 750 - Orocue
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=orocue
-Processing City 613 of 750 - Starosubkhangulovo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=starosubkhangulovo
-Processing City 614 of 750 - Arrifes
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=arrifes
-Processing City 615 of 750 - Challapata
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=challapata
-Processing City 616 of 750 - Richmond
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=richmond
-Processing City 617 of 750 - Xian
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=xian
-Processing City 618 of 750 - Pasighat
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pasighat
-Processing City 619 of 750 - Rawah
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rawah
-Processing City 620 of 750 - Samfya
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=samfya
-Processing City 621 of 750 - Hargeysa
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hargeysa
-Processing City 622 of 750 - Barhi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=barhi
-Processing City 623 of 750 - Bajos De Haina
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bajos%20de%20haina
-Processing City 624 of 750 - Yerky
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yerky
-Processing City 625 of 750 - San Fernando
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=san%20fernando
-Processing City 626 of 750 - Trincomalee
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=trincomalee
-Processing City 627 of 750 - Handwara
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=handwara
-Processing City 628 of 750 - Sriperumbudur
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sriperumbudur
-Processing City 629 of 750 - Kalanguy
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kalanguy
-Processing City 630 of 750 - Canon City
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=canon%20city
-Processing City 631 of 750 - Alenquer
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=alenquer
-Processing City 632 of 750 - Belmonte
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=belmonte
-Processing City 633 of 750 - Makurdi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=makurdi
-Processing City 634 of 750 - Labuhan
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=labuhan
-Processing City 635 of 750 - Loikaw
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=loikaw
-Processing City 636 of 750 - Tena
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tena
-Processing City 637 of 750 - Balimo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=balimo
-Processing City 638 of 750 - Changde
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=changde
-Processing City 639 of 750 - Tiznit
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tiznit
-Processing City 640 of 750 - Damietta
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=damietta
-Processing City 641 of 750 - Ambunti
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ambunti
-Processing City 642 of 750 - Sataua
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sataua
-Processing City 643 of 750 - Sayville
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sayville
-Processing City 644 of 750 - Saint-Augustin
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=saint-augustin
-Processing City 645 of 750 - Lakhisarai
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lakhisarai
-Processing City 646 of 750 - Putina
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=putina
-Processing City 647 of 750 - Rupert
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rupert
-Processing City 648 of 750 - Stillwater
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=stillwater
-Processing City 649 of 750 - Gueret
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gueret
-Processing City 650 of 750 - Lakes Entrance
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lakes%20entrance
-Processing City 651 of 750 - Oistins
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=oistins
-Processing City 652 of 750 - Kisanga
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kisanga
-Processing City 653 of 750 - La Plata
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=la%20plata
-Processing City 654 of 750 - Denizli
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=denizli
-Processing City 655 of 750 - Castle Douglas
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=castle%20douglas
-Processing City 656 of 750 - Quixada
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=quixada
-Processing City 657 of 750 - Khuchni
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=khuchni
-Processing City 658 of 750 - Pyapon
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pyapon
-Processing City 659 of 750 - Camaragibe
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=camaragibe
-Processing City 660 of 750 - Caucaia
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=caucaia
-Processing City 661 of 750 - Santa Helena De Goias
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=santa%20helena%20de%20goias
-Processing City 662 of 750 - Daltenganj
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=daltenganj
-Processing City 663 of 750 - Mingguang
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mingguang
-Processing City 664 of 750 - Praia
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=praia
-Processing City 665 of 750 - Sukhoy Log
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sukhoy%20log
-Processing City 666 of 750 - Ocos
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ocos
-Processing City 667 of 750 - Asuncion
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=asuncion
-Processing City 668 of 750 - Mmabatho
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mmabatho
-Processing City 669 of 750 - Kaiu
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kaiu
-Processing City 670 of 750 - Nueva Gerona
+  
+Processing City 1 of 750 - Sajoszoged
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sajoszoged
+Processing City 2 of 750 - Liminangcong
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=liminangcong
+Processing City 3 of 750 - Tocopilla
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tocopilla
+Processing City 4 of 750 - Mongoumba
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mongoumba
+Processing City 5 of 750 - Neokhorion
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=neokhorion
+Processing City 6 of 750 - Nueva Gerona
 http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nueva%20gerona
-Processing City 671 of 750 - Pont-A-Mousson
+Processing City 7 of 750 - Paragominas
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=paragominas
+Processing City 8 of 750 - Ballina
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ballina
+Processing City 9 of 750 - Hong Gai
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hong%20gai
+Processing City 10 of 750 - Maloshuyka
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=maloshuyka
+Processing City 11 of 750 - Rungata
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rungata
+Processing City 12 of 750 - Carhuamayo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=carhuamayo
+Processing City 13 of 750 - Puerto Penasco
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=puerto%20penasco
+Processing City 14 of 750 - Camaqua
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=camaqua
+Processing City 15 of 750 - Bubaque
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bubaque
+Processing City 16 of 750 - Virginia Beach
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=virginia%20beach
+Processing City 17 of 750 - Bethanien
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bethanien
+Processing City 18 of 750 - Vichuga
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=vichuga
+Processing City 19 of 750 - Koeru
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=koeru
+Processing City 20 of 750 - Saeby
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=saeby
+Processing City 21 of 750 - La Rioja
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=la%20rioja
+Processing City 22 of 750 - Atascocita
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=atascocita
+Processing City 23 of 750 - Portlethen
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=portlethen
+Processing City 24 of 750 - Saltillo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=saltillo
+Processing City 25 of 750 - Gizycko
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gizycko
+Processing City 26 of 750 - Las Choapas
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=las%20choapas
+Processing City 27 of 750 - Taunton
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=taunton
+Processing City 28 of 750 - Bitam
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bitam
+Processing City 29 of 750 - Bhinmal
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bhinmal
+Processing City 30 of 750 - Manica
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=manica
+Processing City 31 of 750 - Payyannur
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=payyannur
+Processing City 32 of 750 - Formoso Do Araguaia
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=formoso%20do%20araguaia
+Processing City 33 of 750 - Agva
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=agva
+Processing City 34 of 750 - Andenes
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=andenes
+Processing City 35 of 750 - Pombas
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pombas
+Processing City 36 of 750 - Chhatak
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chhatak
+Processing City 37 of 750 - Sheoganj
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sheoganj
+Processing City 38 of 750 - Huallanca
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=huallanca
+Processing City 39 of 750 - Mega
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mega
+Processing City 40 of 750 - Yongzhou
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yongzhou
+Processing City 41 of 750 - Harper
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=harper
+Processing City 42 of 750 - Clemson
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=clemson
+Processing City 43 of 750 - Neyshabur
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=neyshabur
+Processing City 44 of 750 - Machico
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=machico
+Processing City 45 of 750 - Eufaula
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=eufaula
+Processing City 46 of 750 - Felanitx
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=felanitx
+Processing City 47 of 750 - Bandiagara
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bandiagara
+Processing City 48 of 750 - Sultanpur
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sultanpur
+Processing City 49 of 750 - Barawe
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=barawe
+Processing City 50 of 750 - Gorontalo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gorontalo
+Processing City 51 of 750 - Matsanga
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=matsanga
+Processing City 52 of 750 - Turinsk
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=turinsk
+Processing City 53 of 750 - Kracheh
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kracheh
+Processing City 54 of 750 - Qostanay
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=qostanay
+Processing City 55 of 750 - Kletskaya
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kletskaya
+Processing City 56 of 750 - Mondlo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mondlo
+Processing City 57 of 750 - Dandong
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dandong
+Processing City 58 of 750 - Tutoia
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tutoia
+Processing City 59 of 750 - Kaspiyskiy
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kaspiyskiy
+Processing City 60 of 750 - Sarakhs
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sarakhs
+Processing City 61 of 750 - Ntcheu
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ntcheu
+Processing City 62 of 750 - Martapura
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=martapura
+Processing City 63 of 750 - Bjornevatn
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bjornevatn
+Processing City 64 of 750 - Samfya
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=samfya
+Processing City 65 of 750 - Chernyshevskiy
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chernyshevskiy
+Processing City 66 of 750 - Glasgow
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=glasgow
+Processing City 67 of 750 - Cibitoke
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cibitoke
+Processing City 68 of 750 - Agogo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=agogo
+Processing City 69 of 750 - Cambrils
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cambrils
+Processing City 70 of 750 - Maraa
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=maraa
+Processing City 71 of 750 - Palauig
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=palauig
+Processing City 72 of 750 - Mollendo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mollendo
+Processing City 73 of 750 - Logumkloster
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=logumkloster
+Processing City 74 of 750 - Caruray
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=caruray
+Processing City 75 of 750 - Makokou
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=makokou
+Processing City 76 of 750 - Zhangye
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zhangye
+Processing City 77 of 750 - Nata
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nata
+Processing City 78 of 750 - Wittlich
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=wittlich
+Processing City 79 of 750 - San Pedro Buenavista
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=san%20pedro%20buenavista
+Processing City 80 of 750 - Amahai
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=amahai
+Processing City 81 of 750 - Sivas
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sivas
+Processing City 82 of 750 - Paytug
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=paytug
+Processing City 83 of 750 - La Mana
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=la%20mana
+Processing City 84 of 750 - Pankrushikha
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pankrushikha
+Processing City 85 of 750 - Longhua
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=longhua
+Processing City 86 of 750 - Thanh Hoa
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=thanh%20hoa
+Processing City 87 of 750 - Muravlenko
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=muravlenko
+Processing City 88 of 750 - Udachnyy
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=udachnyy
+Processing City 89 of 750 - Arcachon
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=arcachon
+Processing City 90 of 750 - Jalu
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=jalu
+Processing City 91 of 750 - Poltavka
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=poltavka
+Processing City 92 of 750 - Kuchera
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kuchera
+Processing City 93 of 750 - Dahuk
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dahuk
+Processing City 94 of 750 - Severodvinsk
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=severodvinsk
+Processing City 95 of 750 - San Narciso
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=san%20narciso
+Processing City 96 of 750 - Ambalavao
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ambalavao
+Processing City 97 of 750 - Severobaykalsk
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=severobaykalsk
+Processing City 98 of 750 - Rurrenabaque
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rurrenabaque
+Processing City 99 of 750 - Druskininkai
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=druskininkai
+Processing City 100 of 750 - Morros
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=morros
+Processing City 101 of 750 - Umarizal
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=umarizal
+Processing City 102 of 750 - Puyang
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=puyang
+Processing City 103 of 750 - Bainbridge
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bainbridge
+Processing City 104 of 750 - Malartic
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=malartic
+Processing City 105 of 750 - Agnibilekrou
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=agnibilekrou
+Processing City 106 of 750 - Bokhan
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bokhan
+Processing City 107 of 750 - Buenavista
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=buenavista
+Processing City 108 of 750 - Mixtepec
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mixtepec
+Processing City 109 of 750 - Madang
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=madang
+Processing City 110 of 750 - Boa Vista
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=boa%20vista
+Processing City 111 of 750 - Zhuzhou
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zhuzhou
+Processing City 112 of 750 - Carlagan
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=carlagan
+Processing City 113 of 750 - Mirabad
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mirabad
+Processing City 114 of 750 - Catalao
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=catalao
+Processing City 115 of 750 - Uvat
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=uvat
+Processing City 116 of 750 - Mushie
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mushie
+Processing City 117 of 750 - Richard Toll
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=richard%20toll
+Processing City 118 of 750 - Rudnogorsk
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rudnogorsk
+Processing City 119 of 750 - Sisimiut
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sisimiut
+Processing City 120 of 750 - Saurimo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=saurimo
+Processing City 121 of 750 - Krasnodar
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=krasnodar
+Processing City 122 of 750 - Salisbury
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=salisbury
+Processing City 123 of 750 - Akyab
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=akyab
+Processing City 124 of 750 - Iguape
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=iguape
+Processing City 125 of 750 - Ewo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ewo
+Processing City 126 of 750 - Burley
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=burley
+Processing City 127 of 750 - Gonbad-E Qabus
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gonbad-e%20qabus
+Processing City 128 of 750 - Chaozhou
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chaozhou
+Processing City 129 of 750 - Meleuz
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=meleuz
+Processing City 130 of 750 - North Platte
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=north%20platte
+Processing City 131 of 750 - Calceta
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=calceta
+Processing City 132 of 750 - Voghera
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=voghera
+Processing City 133 of 750 - Yatou
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yatou
+Processing City 134 of 750 - Loutrakion
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=loutrakion
+Processing City 135 of 750 - Bad Salzdetfurth
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bad%20salzdetfurth
+Processing City 136 of 750 - Pueblo Nuevo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pueblo%20nuevo
+Processing City 137 of 750 - Santa Rosa Del Sur
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=santa%20rosa%20del%20sur
+Processing City 138 of 750 - Key Largo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=key%20largo
+Processing City 139 of 750 - Cradock
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cradock
+Processing City 140 of 750 - Deming
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=deming
+Processing City 141 of 750 - Ariquemes
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ariquemes
+Processing City 142 of 750 - Naifaru
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=naifaru
+Processing City 143 of 750 - Gushikawa
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gushikawa
+Processing City 144 of 750 - Kuopio
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kuopio
+Processing City 145 of 750 - Malacacheta
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=malacacheta
+Processing City 146 of 750 - Nazca
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nazca
+Processing City 147 of 750 - Pullampadi
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pullampadi
+Processing City 148 of 750 - Geraldton
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=geraldton
+Processing City 149 of 750 - Sorsk
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sorsk
+Processing City 150 of 750 - Ivnya
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ivnya
+Processing City 151 of 750 - Dire Dawa
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dire%20dawa
+Processing City 152 of 750 - Pont-A-Mousson
 http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pont-a-mousson
-Processing City 672 of 750 - Ouro Fino
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ouro%20fino
-Processing City 673 of 750 - Xinyang
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=xinyang
-Processing City 674 of 750 - Panshi
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=panshi
-Processing City 675 of 750 - Melito Di Porto Salvo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=melito%20di%20porto%20salvo
-Processing City 676 of 750 - Dianopolis
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dianopolis
-Processing City 677 of 750 - Nikel
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nikel
-Processing City 678 of 750 - Abay
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=abay
-Processing City 679 of 750 - Twin Falls
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=twin%20falls
-Processing City 680 of 750 - Benjamin Constant
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=benjamin%20constant
-Processing City 681 of 750 - Uige
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=uige
-Processing City 682 of 750 - Valdez
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=valdez
-Processing City 683 of 750 - Kotido
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kotido
-Processing City 684 of 750 - Shush
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=shush
-Processing City 685 of 750 - Easton
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=easton
-Processing City 686 of 750 - Gusau
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gusau
-Processing City 687 of 750 - Severnoye
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=severnoye
-Processing City 688 of 750 - Carahue
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=carahue
-Processing City 689 of 750 - Armacao Dos Buzios
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=armacao%20dos%20buzios
-Processing City 690 of 750 - Ladwa
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ladwa
-Processing City 691 of 750 - Meaux
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=meaux
-Processing City 692 of 750 - Jaleswar
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=jaleswar
-Processing City 693 of 750 - Concord
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=concord
-Processing City 694 of 750 - Skibbereen
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=skibbereen
-Processing City 695 of 750 - Aksum
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=aksum
-Processing City 696 of 750 - Florida
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=florida
-Processing City 697 of 750 - Mambolo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mambolo
-Processing City 698 of 750 - Miracema Do Tocantins
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=miracema%20do%20tocantins
-Processing City 699 of 750 - Hojai
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hojai
-Processing City 700 of 750 - Nurota
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nurota
-Processing City 701 of 750 - Conway
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=conway
-Processing City 702 of 750 - Francisco Beltrao
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=francisco%20beltrao
-Processing City 703 of 750 - El Cobre
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=el%20cobre
-Processing City 704 of 750 - La Ronge
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=la%20ronge
-Processing City 705 of 750 - Kamina
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kamina
-Processing City 706 of 750 - Malkapur
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=malkapur
-Processing City 707 of 750 - Valdobbiadene
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=valdobbiadene
-Processing City 708 of 750 - Mar Del Plata
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mar%20del%20plata
-Processing City 709 of 750 - Vao
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=vao
-Processing City 710 of 750 - Mandalay
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mandalay
-Processing City 711 of 750 - North Saint Paul
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=north%20saint%20paul
-Processing City 712 of 750 - Caohai
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=caohai
-Processing City 713 of 750 - Statesville
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=statesville
-Processing City 714 of 750 - Ljungby
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ljungby
-Processing City 715 of 750 - Burriana
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=burriana
-Processing City 716 of 750 - Ibicui
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ibicui
-Processing City 717 of 750 - Chalmette
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chalmette
-Processing City 718 of 750 - Obeliai
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=obeliai
-Processing City 719 of 750 - Dujuma
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dujuma
-Processing City 720 of 750 - Lorengau
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lorengau
-Processing City 721 of 750 - Taksimo
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=taksimo
-Processing City 722 of 750 - Karwar
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=karwar
-Processing City 723 of 750 - Naftah
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=naftah
-Processing City 724 of 750 - Xinyu
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=xinyu
-Processing City 725 of 750 - Saint Pete Beach
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=saint%20pete%20beach
-Processing City 726 of 750 - Madarounfa
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=madarounfa
-Processing City 727 of 750 - Pascagoula
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pascagoula
-Processing City 728 of 750 - Canto Do Buriti
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=canto%20do%20buriti
-Processing City 729 of 750 - Francistown
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=francistown
-Processing City 730 of 750 - Skegness
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=skegness
-Processing City 731 of 750 - Gubkinskiy
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gubkinskiy
-Processing City 732 of 750 - Teno
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=teno
-Processing City 733 of 750 - Olonets
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=olonets
-Processing City 734 of 750 - Suarez
+Processing City 153 of 750 - Ikalamavony
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ikalamavony
+Processing City 154 of 750 - Ahumada
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ahumada
+Processing City 155 of 750 - Miranda
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=miranda
+Processing City 156 of 750 - Buluang
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=buluang
+Processing City 157 of 750 - Jaipur Hat
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=jaipur%20hat
+Processing City 158 of 750 - Blytheville
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=blytheville
+Processing City 159 of 750 - Sandwick
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sandwick
+Processing City 160 of 750 - Toribio
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=toribio
+Processing City 161 of 750 - Campoverde
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=campoverde
+Processing City 162 of 750 - Djenne
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=djenne
+Processing City 163 of 750 - Ingersoll
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ingersoll
+Processing City 164 of 750 - Kanchanaburi
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kanchanaburi
+Processing City 165 of 750 - Toledo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=toledo
+Processing City 166 of 750 - Pacific Grove
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pacific%20grove
+Processing City 167 of 750 - Paitan
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=paitan
+Processing City 168 of 750 - Petropavlovsk-Kamchatskiy
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=petropavlovsk-kamchatskiy
+Processing City 169 of 750 - Mahadday Weyne
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mahadday%20weyne
+Processing City 170 of 750 - Valea Nucarilor
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=valea%20nucarilor
+Processing City 171 of 750 - Bronnoysund
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bronnoysund
+Processing City 172 of 750 - Camara De Lobos
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=camara%20de%20lobos
+Processing City 173 of 750 - Esso
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=esso
+Processing City 174 of 750 - Aklavik
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=aklavik
+Processing City 175 of 750 - Bafoulabe
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bafoulabe
+Processing City 176 of 750 - Sinjai
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sinjai
+Processing City 177 of 750 - Radishchevo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=radishchevo
+Processing City 178 of 750 - Santa Josefa
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=santa%20josefa
+Processing City 179 of 750 - Turbat
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=turbat
+Processing City 180 of 750 - Ondjiva
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ondjiva
+Processing City 181 of 750 - Bosobolo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bosobolo
+Processing City 182 of 750 - Phun Phin
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=phun%20phin
+Processing City 183 of 750 - Hoyanger
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hoyanger
+Processing City 184 of 750 - Bida
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bida
+Processing City 185 of 750 - Kavali
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kavali
+Processing City 186 of 750 - Kirkwall
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kirkwall
+Processing City 187 of 750 - Krasnyy Bogatyr
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=krasnyy%20bogatyr
+Processing City 188 of 750 - Bijar
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bijar
+Processing City 189 of 750 - Amod
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=amod
+Processing City 190 of 750 - Kachikau
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kachikau
+Processing City 191 of 750 - Maralal
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=maralal
+Processing City 192 of 750 - Xinxiang
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=xinxiang
+Processing City 193 of 750 - Koflach
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=koflach
+Processing City 194 of 750 - Yoichi
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yoichi
+Processing City 195 of 750 - Malm
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=malm
+Processing City 196 of 750 - Odienne
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=odienne
+Processing City 197 of 750 - Kimberley
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kimberley
+Processing City 198 of 750 - Guamo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=guamo
+Processing City 199 of 750 - Suarez
 http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=suarez
-Processing City 735 of 750 - Narasannapeta
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=narasannapeta
-Processing City 736 of 750 - Khuldabad
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=khuldabad
-Processing City 737 of 750 - Bogande
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bogande
-Processing City 738 of 750 - General Pico
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=general%20pico
-Processing City 739 of 750 - Road Town
+Processing City 200 of 750 - Lekoni
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lekoni
+Processing City 201 of 750 - Cap Malheureux
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cap%20malheureux
+Processing City 202 of 750 - Tashara
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tashara
+Processing City 203 of 750 - Goundi
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=goundi
+Processing City 204 of 750 - Coruripe
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=coruripe
+Processing City 205 of 750 - Milledgeville
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=milledgeville
+Processing City 206 of 750 - Coldwater
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=coldwater
+Processing City 207 of 750 - Verkhovyna
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=verkhovyna
+Processing City 208 of 750 - Varias
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=varias
+Processing City 209 of 750 - Schenectady
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=schenectady
+Processing City 210 of 750 - Carroll
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=carroll
+Processing City 211 of 750 - Yar-Sale
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yar-sale
+Processing City 212 of 750 - Santo Domingo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=santo%20domingo
+Processing City 213 of 750 - Drochia
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=drochia
+Processing City 214 of 750 - Ilheus
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ilheus
+Processing City 215 of 750 - Usinsk
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=usinsk
+Processing City 216 of 750 - Dzialdowo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dzialdowo
+Processing City 217 of 750 - Uroteppa
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=uroteppa
+Processing City 218 of 750 - Oros
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=oros
+Processing City 219 of 750 - Chany
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chany
+Processing City 220 of 750 - Djibo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=djibo
+Processing City 221 of 750 - Canmore
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=canmore
+Processing City 222 of 750 - Barroualie
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=barroualie
+Processing City 223 of 750 - Rypefjord
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rypefjord
+Processing City 224 of 750 - Maebaru
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=maebaru
+Processing City 225 of 750 - Kilkis
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kilkis
+Processing City 226 of 750 - Tagusao
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tagusao
+Processing City 227 of 750 - Gescher
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gescher
+Processing City 228 of 750 - Thomasville
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=thomasville
+Processing City 229 of 750 - New Richmond
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=new%20richmond
+Processing City 230 of 750 - Goias
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=goias
+Processing City 231 of 750 - Sete
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sete
+Processing City 232 of 750 - Nicolas Bravo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nicolas%20bravo
+Processing City 233 of 750 - Ibotirama
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ibotirama
+Processing City 234 of 750 - Rio Gallegos
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rio%20gallegos
+Processing City 235 of 750 - Uglovskoye
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=uglovskoye
+Processing City 236 of 750 - Nicoya
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nicoya
+Processing City 237 of 750 - Booue
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=booue
+Processing City 238 of 750 - Pitsunda
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pitsunda
+Processing City 239 of 750 - Itamaraca
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=itamaraca
+Processing City 240 of 750 - Seka
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=seka
+Processing City 241 of 750 - Ila
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ila
+Processing City 242 of 750 - Soligalich
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=soligalich
+Processing City 243 of 750 - Madras
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=madras
+Processing City 244 of 750 - Ankazobe
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ankazobe
+Processing City 245 of 750 - La Florida
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=la%20florida
+Processing City 246 of 750 - Aketi
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=aketi
+Processing City 247 of 750 - Chernyy Yar
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chernyy%20yar
+Processing City 248 of 750 - Rikitea
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rikitea
+Processing City 249 of 750 - Chardara
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chardara
+Processing City 250 of 750 - Villa Sandino
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=villa%20sandino
+Processing City 251 of 750 - Arman
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=arman
+Processing City 252 of 750 - Lukulu
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lukulu
+Processing City 253 of 750 - Krasnoarmeysk
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=krasnoarmeysk
+Processing City 254 of 750 - Keroka
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=keroka
+Processing City 255 of 750 - Pinsk
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pinsk
+Processing City 256 of 750 - East Wenatchee Bench
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=east%20wenatchee%20bench
+Processing City 257 of 750 - Gaurnadi
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gaurnadi
+Processing City 258 of 750 - Petaluma
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=petaluma
+Processing City 259 of 750 - Kawhia
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kawhia
+Processing City 260 of 750 - Chhindwara
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chhindwara
+Processing City 261 of 750 - Los Andes
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=los%20andes
+Processing City 262 of 750 - Torit
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=torit
+Processing City 263 of 750 - Distraccion
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=distraccion
+Processing City 264 of 750 - Ilam
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ilam
+Processing City 265 of 750 - Qovlar
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=qovlar
+Processing City 266 of 750 - Zhangjiakou
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zhangjiakou
+Processing City 267 of 750 - Eisenberg
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=eisenberg
+Processing City 268 of 750 - Ukiah
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ukiah
+Processing City 269 of 750 - Stepankovice
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=stepankovice
+Processing City 270 of 750 - Gamboula
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gamboula
+Processing City 271 of 750 - Port Macquarie
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=port%20macquarie
+Processing City 272 of 750 - Chiriqui Grande
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chiriqui%20grande
+Processing City 273 of 750 - Zhuanghe
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zhuanghe
+Processing City 274 of 750 - San Rafael Del Sur
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=san%20rafael%20del%20sur
+Processing City 275 of 750 - Fairlie
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=fairlie
+Processing City 276 of 750 - Toktogul
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=toktogul
+Processing City 277 of 750 - Atikokan
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=atikokan
+Processing City 278 of 750 - Dumabato
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dumabato
+Processing City 279 of 750 - Algodones
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=algodones
+Processing City 280 of 750 - Ocos
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ocos
+Processing City 281 of 750 - Guacimo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=guacimo
+Processing City 282 of 750 - Le Mars
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=le%20mars
+Processing City 283 of 750 - Pontal
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pontal
+Processing City 284 of 750 - Izamal
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=izamal
+Processing City 285 of 750 - Tripoli
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tripoli
+Processing City 286 of 750 - Sa Kaeo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sa%20kaeo
+Processing City 287 of 750 - Qaracala
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=qaracala
+Processing City 288 of 750 - Tapiramuta
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tapiramuta
+Processing City 289 of 750 - Gravdal
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gravdal
+Processing City 290 of 750 - Diapaga
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=diapaga
+Processing City 291 of 750 - Novolvovsk
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=novolvovsk
+Processing City 292 of 750 - Nelson
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nelson
+Processing City 293 of 750 - Suez
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=suez
+Processing City 294 of 750 - Iwaki
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=iwaki
+Processing City 295 of 750 - Wentzville
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=wentzville
+Processing City 296 of 750 - Tarko-Sale
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tarko-sale
+Processing City 297 of 750 - Ondangwa
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ondangwa
+Processing City 298 of 750 - Havre-Saint-Pierre
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=havre-saint-pierre
+Processing City 299 of 750 - High Level
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=high%20level
+Processing City 300 of 750 - Pipri
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pipri
+Processing City 301 of 750 - Myaundzha
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=myaundzha
+Processing City 302 of 750 - Alvinopolis
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=alvinopolis
+Processing City 303 of 750 - Thayetmyo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=thayetmyo
+Processing City 304 of 750 - Peachland
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=peachland
+Processing City 305 of 750 - Sayat
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sayat
+Processing City 306 of 750 - Saint-Georges
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=saint-georges
+Processing City 307 of 750 - Paz De Ariporo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=paz%20de%20ariporo
+Processing City 308 of 750 - Brigantine
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=brigantine
+Processing City 309 of 750 - Shirokiy
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=shirokiy
+Processing City 310 of 750 - Arsk
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=arsk
+Processing City 311 of 750 - Severnyy-Kospashskiy
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=severnyy-kospashskiy
+Processing City 312 of 750 - Tumut
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tumut
+Processing City 313 of 750 - Palanga
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=palanga
+Processing City 314 of 750 - Zhuhai
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zhuhai
+Processing City 315 of 750 - La Orilla
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=la%20orilla
+Processing City 316 of 750 - Pozo Colorado
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pozo%20colorado
+Processing City 317 of 750 - Stornoway
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=stornoway
+Processing City 318 of 750 - Boissevain
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=boissevain
+Processing City 319 of 750 - Witbank
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=witbank
+Processing City 320 of 750 - Mineros
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mineros
+Processing City 321 of 750 - Novyy Urengoy
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=novyy%20urengoy
+Processing City 322 of 750 - Ordubad
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ordubad
+Processing City 323 of 750 - Srednekolymsk
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=srednekolymsk
+Processing City 324 of 750 - Mikkeli
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mikkeli
+Processing City 325 of 750 - Ensenada
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ensenada
+Processing City 326 of 750 - Ambodifototra
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ambodifototra
+Processing City 327 of 750 - Bang Lamung
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bang%20lamung
+Processing City 328 of 750 - Cehegin
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cehegin
+Processing City 329 of 750 - Udalguri
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=udalguri
+Processing City 330 of 750 - Khatra
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=khatra
+Processing City 331 of 750 - Mutsamudu
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mutsamudu
+Processing City 332 of 750 - Kouango
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kouango
+Processing City 333 of 750 - Milici
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=milici
+Processing City 334 of 750 - La Palma
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=la%20palma
+Processing City 335 of 750 - San Mateo Del Mar
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=san%20mateo%20del%20mar
+Processing City 336 of 750 - Harer
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=harer
+Processing City 337 of 750 - Magadi
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=magadi
+Processing City 338 of 750 - Tianmen
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tianmen
+Processing City 339 of 750 - San Mariano
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=san%20mariano
+Processing City 340 of 750 - Bilaspur
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bilaspur
+Processing City 341 of 750 - Chadiza
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chadiza
+Processing City 342 of 750 - San Luis
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=san%20luis
+Processing City 343 of 750 - Hobyo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hobyo
+Processing City 344 of 750 - Nizhniy Tagil
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nizhniy%20tagil
+Processing City 345 of 750 - Da Nang
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=da%20nang
+Processing City 346 of 750 - Andujar
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=andujar
+Processing City 347 of 750 - Tawnat
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tawnat
+Processing City 348 of 750 - Junagarh
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=junagarh
+Processing City 349 of 750 - Huarmey
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=huarmey
+Processing City 350 of 750 - Kota
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kota
+Processing City 351 of 750 - Aktas
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=aktas
+Processing City 352 of 750 - Pocone
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pocone
+Processing City 353 of 750 - Dubbo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dubbo
+Processing City 354 of 750 - Ozernovskiy
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ozernovskiy
+Processing City 355 of 750 - Carandai
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=carandai
+Processing City 356 of 750 - Rangoon
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rangoon
+Processing City 357 of 750 - Linhai
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=linhai
+Processing City 358 of 750 - Bullhead City
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bullhead%20city
+Processing City 359 of 750 - The Pas
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=the%20pas
+Processing City 360 of 750 - Bongandanga
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bongandanga
+Processing City 361 of 750 - Georgiyevka
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=georgiyevka
+Processing City 362 of 750 - Pushkinskiye Gory
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pushkinskiye%20gory
+Processing City 363 of 750 - Wadena
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=wadena
+Processing City 364 of 750 - Kemi
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kemi
+Processing City 365 of 750 - Peque
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=peque
+Processing City 366 of 750 - Ravne
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ravne
+Processing City 367 of 750 - Rochegda
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rochegda
+Processing City 368 of 750 - Gaya
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gaya
+Processing City 369 of 750 - Urzhum
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=urzhum
+Processing City 370 of 750 - Xai-Xai
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=xai-xai
+Processing City 371 of 750 - Kota Kinabalu
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kota%20kinabalu
+Processing City 372 of 750 - Gobabis
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gobabis
+Processing City 373 of 750 - Maghama
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=maghama
+Processing City 374 of 750 - Juquitiba
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=juquitiba
+Processing City 375 of 750 - Kamyzyak
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kamyzyak
+Processing City 376 of 750 - Golden
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=golden
+Processing City 377 of 750 - Neuchatel
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=neuchatel
+Processing City 378 of 750 - Gasa
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gasa
+Processing City 379 of 750 - Cape Canaveral
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cape%20canaveral
+Processing City 380 of 750 - Agidel
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=agidel
+Processing City 381 of 750 - Arya
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=arya
+Processing City 382 of 750 - Buncrana
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=buncrana
+Processing City 383 of 750 - Haflong
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=haflong
+Processing City 384 of 750 - Qorveh
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=qorveh
+Processing City 385 of 750 - Benito Juarez
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=benito%20juarez
+Processing City 386 of 750 - Vasilyevskiy Mokh
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=vasilyevskiy%20mokh
+Processing City 387 of 750 - Pompeia
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pompeia
+Processing City 388 of 750 - Rio Grande
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rio%20grande
+Processing City 389 of 750 - Kizukuri
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kizukuri
+Processing City 390 of 750 - Weihai
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=weihai
+Processing City 391 of 750 - Tlalnepantla
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tlalnepantla
+Processing City 392 of 750 - Santa Isabel Do Rio Negro
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=santa%20isabel%20do%20rio%20negro
+Processing City 393 of 750 - Nisia Floresta
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nisia%20floresta
+Processing City 394 of 750 - Nivala
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nivala
+Processing City 395 of 750 - Kalulushi
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kalulushi
+Processing City 396 of 750 - Solone
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=solone
+Processing City 397 of 750 - Khislavichi
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=khislavichi
+Processing City 398 of 750 - Listvyanka
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=listvyanka
+Processing City 399 of 750 - Purna
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=purna
+Processing City 400 of 750 - Muncar
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=muncar
+Processing City 401 of 750 - Truro
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=truro
+Processing City 402 of 750 - Vestbygda
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=vestbygda
+Processing City 403 of 750 - Miramar
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=miramar
+Processing City 404 of 750 - Verona
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=verona
+Processing City 405 of 750 - Issoudun
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=issoudun
+Processing City 406 of 750 - Hoopstad
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hoopstad
+Processing City 407 of 750 - Aracaju
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=aracaju
+Processing City 408 of 750 - Loviisa
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=loviisa
+Processing City 409 of 750 - Massa Marittima
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=massa%20marittima
+Processing City 410 of 750 - Madingou
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=madingou
+Processing City 411 of 750 - Hami
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hami
+Processing City 412 of 750 - Guaraniacu
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=guaraniacu
+Processing City 413 of 750 - Assomada
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=assomada
+Processing City 414 of 750 - Kanjiza
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kanjiza
+Processing City 415 of 750 - Humboldt
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=humboldt
+Processing City 416 of 750 - Stykkisholmur
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=stykkisholmur
+Processing City 417 of 750 - Trenggalek
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=trenggalek
+Processing City 418 of 750 - Baneh
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=baneh
+Processing City 419 of 750 - Nyaunglebin
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nyaunglebin
+Processing City 420 of 750 - Ostrogozhsk
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ostrogozhsk
+Processing City 421 of 750 - Marsala
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=marsala
+Processing City 422 of 750 - Jeremie
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=jeremie
+Processing City 423 of 750 - Baracoa
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=baracoa
+Processing City 424 of 750 - Road Town
 http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=road%20town
-Processing City 740 of 750 - Guhagar
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=guhagar
-Processing City 741 of 750 - Fougamou
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=fougamou
-Processing City 742 of 750 - Ourossogui
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ourossogui
-Processing City 743 of 750 - Marica
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=marica
-Processing City 744 of 750 - Yanam
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yanam
-Processing City 745 of 750 - Da Lat
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=da%20lat
-Processing City 746 of 750 - Szentlorinc
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=szentlorinc
-Processing City 747 of 750 - Lidkoping
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lidkoping
-Processing City 748 of 750 - Bolshaya Chernigovka
+Processing City 425 of 750 - Keta
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=keta
+Processing City 426 of 750 - North Myrtle Beach
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=north%20myrtle%20beach
+Processing City 427 of 750 - Jiayuguan
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=jiayuguan
+Processing City 428 of 750 - Ayutla
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ayutla
+Processing City 429 of 750 - Leshukonskoye
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=leshukonskoye
+Processing City 430 of 750 - Canton
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=canton
+Processing City 431 of 750 - Macapa
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=macapa
+Processing City 432 of 750 - West Plains
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=west%20plains
+Processing City 433 of 750 - Oster
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=oster
+Processing City 434 of 750 - Kpandu
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kpandu
+Processing City 435 of 750 - Recodo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=recodo
+Processing City 436 of 750 - Atar
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=atar
+Processing City 437 of 750 - Rabo De Peixe
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rabo%20de%20peixe
+Processing City 438 of 750 - Craig
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=craig
+Processing City 439 of 750 - Fulacunda
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=fulacunda
+Processing City 440 of 750 - Sturgeon Falls
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sturgeon%20falls
+Processing City 441 of 750 - Mazsalaca
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mazsalaca
+Processing City 442 of 750 - Tomohon
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tomohon
+Processing City 443 of 750 - Dianopolis
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dianopolis
+Processing City 444 of 750 - Tabarqah
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tabarqah
+Processing City 445 of 750 - Makinsk
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=makinsk
+Processing City 446 of 750 - Chingola
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chingola
+Processing City 447 of 750 - Maridi
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=maridi
+Processing City 448 of 750 - Ardesen
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ardesen
+Processing City 449 of 750 - Belgrade
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=belgrade
+Processing City 450 of 750 - Dryden
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dryden
+Processing City 451 of 750 - Tursunzoda
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tursunzoda
+Processing City 452 of 750 - Andarab
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=andarab
+Processing City 453 of 750 - Angoram
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=angoram
+Processing City 454 of 750 - Hachinohe
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hachinohe
+Processing City 455 of 750 - Kilrush
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kilrush
+Processing City 456 of 750 - Toora-Khem
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=toora-khem
+Processing City 457 of 750 - Wuwei
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=wuwei
+Processing City 458 of 750 - El Tarra
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=el%20tarra
+Processing City 459 of 750 - Rosario
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rosario
+Processing City 460 of 750 - Le Port
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=le%20port
+Processing City 461 of 750 - North Augusta
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=north%20augusta
+Processing City 462 of 750 - Ludvika
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ludvika
+Processing City 463 of 750 - Sao Paulo De Olivenca
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sao%20paulo%20de%20olivenca
+Processing City 464 of 750 - Velingrad
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=velingrad
+Processing City 465 of 750 - Jacobina
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=jacobina
+Processing City 466 of 750 - Utevka
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=utevka
+Processing City 467 of 750 - Otradnoye
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=otradnoye
+Processing City 468 of 750 - Uthal
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=uthal
+Processing City 469 of 750 - Auka
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=auka
+Processing City 470 of 750 - Tlazazalca
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tlazazalca
+Processing City 471 of 750 - Unai
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=unai
+Processing City 472 of 750 - Kapustin Yar
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kapustin%20yar
+Processing City 473 of 750 - Shurugwi
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=shurugwi
+Processing City 474 of 750 - Cerro Cama
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cerro%20cama
+Processing City 475 of 750 - Nerang
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nerang
+Processing City 476 of 750 - Jamame
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=jamame
+Processing City 477 of 750 - Pleshanovo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pleshanovo
+Processing City 478 of 750 - Tias
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tias
+Processing City 479 of 750 - Mweka
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mweka
+Processing City 480 of 750 - Tarancon
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tarancon
+Processing City 481 of 750 - Abilene
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=abilene
+Processing City 482 of 750 - Herat
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=herat
+Processing City 483 of 750 - Talakan
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=talakan
+Processing City 484 of 750 - Tapaua
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tapaua
+Processing City 485 of 750 - Altagracia De Orituco
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=altagracia%20de%20orituco
+Processing City 486 of 750 - Ostrovskoye
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ostrovskoye
+Processing City 487 of 750 - Tsaratanana
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tsaratanana
+Processing City 488 of 750 - Zhirnovsk
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zhirnovsk
+Processing City 489 of 750 - Gulfport
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gulfport
+Processing City 490 of 750 - Butembo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=butembo
+Processing City 491 of 750 - Dubti
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dubti
+Processing City 492 of 750 - Hauterive
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hauterive
+Processing City 493 of 750 - Zhanakorgan
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zhanakorgan
+Processing City 494 of 750 - Forbes
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=forbes
+Processing City 495 of 750 - Gimbi
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gimbi
+Processing City 496 of 750 - Finschhafen
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=finschhafen
+Processing City 497 of 750 - Abha
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=abha
+Processing City 498 of 750 - Terme
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=terme
+Processing City 499 of 750 - Fastiv
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=fastiv
+Processing City 500 of 750 - Benghazi
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=benghazi
+Processing City 501 of 750 - Stryn
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=stryn
+Processing City 502 of 750 - Padilla
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=padilla
+Processing City 503 of 750 - Parkes
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=parkes
+Processing City 504 of 750 - Las Tunas
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=las%20tunas
+Processing City 505 of 750 - Odesskoye
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=odesskoye
+Processing City 506 of 750 - Bhadra
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bhadra
+Processing City 507 of 750 - Bijie
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bijie
+Processing City 508 of 750 - Ganganagar
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ganganagar
+Processing City 509 of 750 - Klaebu
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=klaebu
+Processing City 510 of 750 - Medyn
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=medyn
+Processing City 511 of 750 - Jeremoabo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=jeremoabo
+Processing City 512 of 750 - Balikpapan
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=balikpapan
+Processing City 513 of 750 - Kamyshin
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kamyshin
+Processing City 514 of 750 - Leon
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=leon
+Processing City 515 of 750 - Mufumbwe
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mufumbwe
+Processing City 516 of 750 - Mahebourg
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mahebourg
+Processing City 517 of 750 - Kingsland
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kingsland
+Processing City 518 of 750 - Lourdes
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lourdes
+Processing City 519 of 750 - Segovia
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=segovia
+Processing City 520 of 750 - Contai
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=contai
+Processing City 521 of 750 - Annau
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=annau
+Processing City 522 of 750 - Kunya
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kunya
+Processing City 523 of 750 - Riyadh
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=riyadh
+Processing City 524 of 750 - Ferme-Neuve
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ferme-neuve
+Processing City 525 of 750 - Oxford
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=oxford
+Processing City 526 of 750 - Ucluelet
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ucluelet
+Processing City 527 of 750 - Miandoab
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=miandoab
+Processing City 528 of 750 - Topeka
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=topeka
+Processing City 529 of 750 - Lichuan
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lichuan
+Processing City 530 of 750 - Gerede
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gerede
+Processing City 531 of 750 - Novoilinsk
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=novoilinsk
+Processing City 532 of 750 - Bokspits
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bokspits
+Processing City 533 of 750 - Broken Hill
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=broken%20hill
+Processing City 534 of 750 - Muika
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=muika
+Processing City 535 of 750 - Chililabombwe
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chililabombwe
+Processing City 536 of 750 - Madimba
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=madimba
+Processing City 537 of 750 - Svolvaer
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=svolvaer
+Processing City 538 of 750 - Angouleme
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=angouleme
+Processing City 539 of 750 - Muriti
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=muriti
+Processing City 540 of 750 - Bogovina
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bogovina
+Processing City 541 of 750 - Hengshan
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hengshan
+Processing City 542 of 750 - Koslan
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=koslan
+Processing City 543 of 750 - Bousso
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bousso
+Processing City 544 of 750 - Lahijan
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lahijan
+Processing City 545 of 750 - Governador Valadares
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=governador%20valadares
+Processing City 546 of 750 - Cheremukhovo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cheremukhovo
+Processing City 547 of 750 - Chuy
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=chuy
+Processing City 548 of 750 - Nemuro
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nemuro
+Processing City 549 of 750 - Holice
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=holice
+Processing City 550 of 750 - Mahanje
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mahanje
+Processing City 551 of 750 - Yuzhnyy
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yuzhnyy
+Processing City 552 of 750 - Puerto Cortes
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=puerto%20cortes
+Processing City 553 of 750 - El Mahalla El Kubra
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=el%20mahalla%20el%20kubra
+Processing City 554 of 750 - Blind River
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=blind%20river
+Processing City 555 of 750 - Monroe
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=monroe
+Processing City 556 of 750 - Barnstaple
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=barnstaple
+Processing City 557 of 750 - Phonhong
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=phonhong
+Processing City 558 of 750 - Tazmalt
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tazmalt
+Processing City 559 of 750 - Axim
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=axim
+Processing City 560 of 750 - Fort Nelson
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=fort%20nelson
+Processing City 561 of 750 - Pitanga
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pitanga
+Processing City 562 of 750 - Tonneins
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tonneins
+Processing City 563 of 750 - Nosy Varika
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nosy%20varika
+Processing City 564 of 750 - Sinop
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sinop
+Processing City 565 of 750 - Mareeba
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mareeba
+Processing City 566 of 750 - Cacu
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cacu
+Processing City 567 of 750 - South Yuba City
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=south%20yuba%20city
+Processing City 568 of 750 - Gunjur
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gunjur
+Processing City 569 of 750 - Aporawan
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=aporawan
+Processing City 570 of 750 - Agadez
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=agadez
+Processing City 571 of 750 - Kingaroy
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kingaroy
+Processing City 572 of 750 - Barroquinha
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=barroquinha
+Processing City 573 of 750 - Adrar
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=adrar
+Processing City 574 of 750 - Pedra Azul
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pedra%20azul
+Processing City 575 of 750 - Kloulklubed
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kloulklubed
+Processing City 576 of 750 - Zavallya
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zavallya
+Processing City 577 of 750 - Doctor Arroyo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=doctor%20arroyo
+Processing City 578 of 750 - Soe
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=soe
+Processing City 579 of 750 - Manzil Tamim
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=manzil%20tamim
+Processing City 580 of 750 - Mtwango
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mtwango
+Processing City 581 of 750 - Pimentel
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pimentel
+Processing City 582 of 750 - Carmo Do Rio Claro
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=carmo%20do%20rio%20claro
+Processing City 583 of 750 - Cananeia
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=cananeia
+Processing City 584 of 750 - Olyka
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=olyka
+Processing City 585 of 750 - Bulolo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bulolo
+Processing City 586 of 750 - Morropon
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=morropon
+Processing City 587 of 750 - Lichinga
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lichinga
+Processing City 588 of 750 - Kihei
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kihei
+Processing City 589 of 750 - Yangmei
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yangmei
+Processing City 590 of 750 - Gretna
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gretna
+Processing City 591 of 750 - Thyboron
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=thyboron
+Processing City 592 of 750 - Witrivier
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=witrivier
+Processing City 593 of 750 - Katiola
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=katiola
+Processing City 594 of 750 - Beboto
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=beboto
+Processing City 595 of 750 - Great Bend
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=great%20bend
+Processing City 596 of 750 - Abalak
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=abalak
+Processing City 597 of 750 - Avarua
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=avarua
+Processing City 598 of 750 - Glarus
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=glarus
+Processing City 599 of 750 - Lamar
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lamar
+Processing City 600 of 750 - Balakovo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=balakovo
+Processing City 601 of 750 - Mugumu
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mugumu
+Processing City 602 of 750 - Toucheng
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=toucheng
+Processing City 603 of 750 - Singaparna
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=singaparna
+Processing City 604 of 750 - Port Keats
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=port%20keats
+Processing City 605 of 750 - Saiha
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=saiha
+Processing City 606 of 750 - Novoorsk
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=novoorsk
+Processing City 607 of 750 - Punta Alta
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=punta%20alta
+Processing City 608 of 750 - Aksaray
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=aksaray
+Processing City 609 of 750 - Talaya
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=talaya
+Processing City 610 of 750 - Likasi
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=likasi
+Processing City 611 of 750 - Plaridel
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=plaridel
+Processing City 612 of 750 - Toritama
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=toritama
+Processing City 613 of 750 - Loikaw
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=loikaw
+Processing City 614 of 750 - Bagdarin
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bagdarin
+Processing City 615 of 750 - Potam
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=potam
+Processing City 616 of 750 - Tsybuliv
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tsybuliv
+Processing City 617 of 750 - Ongandjera
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ongandjera
+Processing City 618 of 750 - Shirak
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=shirak
+Processing City 619 of 750 - Syamzha
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=syamzha
+Processing City 620 of 750 - Hacienda Heights
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hacienda%20heights
+Processing City 621 of 750 - Provideniya
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=provideniya
+Processing City 622 of 750 - Hobbs
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hobbs
+Processing City 623 of 750 - Barentu
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=barentu
+Processing City 624 of 750 - Grimshaw
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=grimshaw
+Processing City 625 of 750 - Nurota
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nurota
+Processing City 626 of 750 - Creston
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=creston
+Processing City 627 of 750 - Katsina
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=katsina
+Processing City 628 of 750 - Willemstad
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=willemstad
+Processing City 629 of 750 - Teresina
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=teresina
+Processing City 630 of 750 - Muroto
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=muroto
+Processing City 631 of 750 - Khuzhir
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=khuzhir
+Processing City 632 of 750 - Pacasmayo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pacasmayo
+Processing City 633 of 750 - Portmore
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=portmore
+Processing City 634 of 750 - Juifang
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=juifang
+Processing City 635 of 750 - Mumbwa
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mumbwa
+Processing City 636 of 750 - Itarema
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=itarema
+Processing City 637 of 750 - Kholmy
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kholmy
+Processing City 638 of 750 - Pirgos
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=pirgos
+Processing City 639 of 750 - Kananga
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kananga
+Processing City 640 of 750 - Akcakoca
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=akcakoca
+Processing City 641 of 750 - Ridgecrest
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ridgecrest
+Processing City 642 of 750 - Lima Duarte
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lima%20duarte
+Processing City 643 of 750 - Bolshiye Klyuchishchi
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bolshiye%20klyuchishchi
+Processing City 644 of 750 - Villanueva
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=villanueva
+Processing City 645 of 750 - Bozhou
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bozhou
+Processing City 646 of 750 - Constanza
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=constanza
+Processing City 647 of 750 - Edea
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=edea
+Processing City 648 of 750 - Nieuw Nickerie
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=nieuw%20nickerie
+Processing City 649 of 750 - Loveland
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=loveland
+Processing City 650 of 750 - Morgan City
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=morgan%20city
+Processing City 651 of 750 - Isiro
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=isiro
+Processing City 652 of 750 - Gold Coast
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gold%20coast
+Processing City 653 of 750 - Zvenigovo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zvenigovo
+Processing City 654 of 750 - Oeiras
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=oeiras
+Processing City 655 of 750 - Bossangoa
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bossangoa
+Processing City 656 of 750 - Ajoloapan
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ajoloapan
+Processing City 657 of 750 - Jardim
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=jardim
+Processing City 658 of 750 - Loanda
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=loanda
+Processing City 659 of 750 - Sakhnovshchyna
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sakhnovshchyna
+Processing City 660 of 750 - Joson
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=joson
+Processing City 661 of 750 - Magadan
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=magadan
+Processing City 662 of 750 - Karpathos
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=karpathos
+Processing City 663 of 750 - Marigot
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=marigot
+Processing City 664 of 750 - Baturaja
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=baturaja
+Processing City 665 of 750 - Russkaya Polyana
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=russkaya%20polyana
+Processing City 666 of 750 - Yongchang
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yongchang
+Processing City 667 of 750 - Ormond Beach
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ormond%20beach
+Processing City 668 of 750 - Carmen
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=carmen
+Processing City 669 of 750 - Sidi Ali
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sidi%20ali
+Processing City 670 of 750 - Tra Vinh
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tra%20vinh
+Processing City 671 of 750 - Sao Joao Da Ponte
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sao%20joao%20da%20ponte
+Processing City 672 of 750 - Staryy Nadym
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=staryy%20nadym
+Processing City 673 of 750 - Batesville
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=batesville
+Processing City 674 of 750 - Jorpeland
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=jorpeland
+Processing City 675 of 750 - Araioses
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=araioses
+Processing City 676 of 750 - Bossier City
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bossier%20city
+Processing City 677 of 750 - Preeceville
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=preeceville
+Processing City 678 of 750 - Wanganui
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=wanganui
+Processing City 679 of 750 - Dunda
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dunda
+Processing City 680 of 750 - Bestobe
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bestobe
+Processing City 681 of 750 - Baker City
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=baker%20city
+Processing City 682 of 750 - Zhoucheng
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zhoucheng
+Processing City 683 of 750 - Danane
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=danane
+Processing City 684 of 750 - Purgstall
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=purgstall
+Processing City 685 of 750 - Craigieburn
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=craigieburn
+Processing City 686 of 750 - Swinford
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=swinford
+Processing City 687 of 750 - Shahr-E Babak
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=shahr-e%20babak
+Processing City 688 of 750 - Sturgeon Bay
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sturgeon%20bay
+Processing City 689 of 750 - Uyemskiy
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=uyemskiy
+Processing City 690 of 750 - Acin
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=acin
+Processing City 691 of 750 - Tandalti
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tandalti
+Processing City 692 of 750 - Bafq
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bafq
+Processing City 693 of 750 - Malakal
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=malakal
+Processing City 694 of 750 - Villazon
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=villazon
+Processing City 695 of 750 - San Francisco
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=san%20francisco
+Processing City 696 of 750 - Ionia
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ionia
+Processing City 697 of 750 - Zilair
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zilair
+Processing City 698 of 750 - Maxixe
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=maxixe
+Processing City 699 of 750 - Dingzhou
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=dingzhou
+Processing City 700 of 750 - Ushibuka
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ushibuka
+Processing City 701 of 750 - Svetlogorsk
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=svetlogorsk
+Processing City 702 of 750 - Humenne
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=humenne
+Processing City 703 of 750 - Zanjan
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=zanjan
+Processing City 704 of 750 - Syasstroy
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=syasstroy
+Processing City 705 of 750 - Kefamenanu
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kefamenanu
+Processing City 706 of 750 - Karakose
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=karakose
+Processing City 707 of 750 - Suchitoto
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=suchitoto
+Processing City 708 of 750 - Rockland
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=rockland
+Processing City 709 of 750 - El Triunfo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=el%20triunfo
+Processing City 710 of 750 - Codroipo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=codroipo
+Processing City 711 of 750 - Samos
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=samos
+Processing City 712 of 750 - Vastervik
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=vastervik
+Processing City 713 of 750 - Sosnovo-Ozerskoye
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sosnovo-ozerskoye
+Processing City 714 of 750 - Hengyang
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hengyang
+Processing City 715 of 750 - Ovalle
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ovalle
+Processing City 716 of 750 - Yukamenskoye
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yukamenskoye
+Processing City 717 of 750 - Hollins
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=hollins
+Processing City 718 of 750 - Snyder
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=snyder
+Processing City 719 of 750 - Trelleborg
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=trelleborg
+Processing City 720 of 750 - Balatonalmadi
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=balatonalmadi
+Processing City 721 of 750 - Yingkou
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yingkou
+Processing City 722 of 750 - Santarem
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=santarem
+Processing City 723 of 750 - Ponta Do Sol
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ponta%20do%20sol
+Processing City 724 of 750 - Yashkul
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yashkul
+Processing City 725 of 750 - Ljungby
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ljungby
+Processing City 726 of 750 - Jacqueville
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=jacqueville
+Processing City 727 of 750 - Yekaterinoslavka
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yekaterinoslavka
+Processing City 728 of 750 - Aksay
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=aksay
+Processing City 729 of 750 - Bolshaya Chernigovka
 http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bolshaya%20chernigovka
-Processing City 749 of 750 - Tiarei
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tiarei
-Processing City 750 of 750 - Sun Valley
-http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sun%20valley
+Processing City 730 of 750 - Santa Engracia
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=santa%20engracia
+Processing City 731 of 750 - Yenagoa
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=yenagoa
+Processing City 732 of 750 - Lumut
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lumut
+Processing City 733 of 750 - Barbate
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=barbate
+Processing City 734 of 750 - Gotsu
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=gotsu
+Processing City 735 of 750 - Tibati
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=tibati
+Processing City 736 of 750 - Taksimo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=taksimo
+Processing City 737 of 750 - Mulege
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mulege
+Processing City 738 of 750 - Peru
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=peru
+Processing City 739 of 750 - Mindelo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=mindelo
+Processing City 740 of 750 - Elliot Lake
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=elliot%20lake
+Processing City 741 of 750 - Georgetown
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=georgetown
+Processing City 742 of 750 - Kalyazin
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kalyazin
+Processing City 743 of 750 - Bonga
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=bonga
+Processing City 744 of 750 - Lodwar
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=lodwar
+Processing City 745 of 750 - Fresnillo
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=fresnillo
+Processing City 746 of 750 - Sakakah
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=sakakah
+Processing City 747 of 750 - Kangaatsiaq
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=kangaatsiaq
+Processing City 748 of 750 - Devrek
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=devrek
+Processing City 749 of 750 - Ciudad Guayana
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=ciudad%20guayana
+Processing City 750 of 750 - Holme
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=api_key&q=holme
 -------------------------------
 Data Retrieval Complete
 -------------------------------
@@ -1712,16 +1713,15 @@ city_samples.count(axis = 0)
 
 
 
-    City               701
-    Lat                701
-    Lng                701
-    Country            701
-    Date               701
-    Max Temp(°F)       701
-    Humidity(%)        701
-    Cloudiness(%)      701
-    Wind Speed(mph)    701
-    Max Temp(°F)       701
+    City               686
+    Lat                686
+    Lng                686
+    Country            686
+    Date               686
+    Max Temp(°F)       686
+    Humidity(%)        686
+    Cloudiness(%)      686
+    Wind Speed(mph)    686
     dtype: int64
 
 
@@ -1753,74 +1753,74 @@ city_samples.head()
          <tbody>
            <tr>
              <th>1</th>
-             <td>smithers</td>
-             <td>54.78</td>
-             <td>-127.17</td>
-             <td>CA</td>
-             <td>1551654000</td>
+             <td>sajoszoged</td>
+             <td>47.95</td>
+             <td>21</td>
+             <td>HU</td>
+             <td>1551819911</td>
              <td></td>
-             <td>26</td>
-             <td>5</td>
-             <td>2.62</td>
-             <td>19.40</td>
-           </tr>
-           <tr>
-             <th>2</th>
-             <td>tirat karmel</td>
-             <td>32.76</td>
-             <td>34.97</td>
-             <td>IL</td>
-             <td>1551656758</td>
-             <td></td>
-             <td>90</td>
-             <td>88</td>
-             <td>1.99</td>
-             <td>51.01</td>
+             <td>41.29</td>
+             <td>67</td>
+             <td>36</td>
+             <td>9.19</td>
            </tr>
            <tr>
              <th>3</th>
-             <td>igrim</td>
-             <td>63.19</td>
-             <td>64.42</td>
-             <td>RU</td>
-             <td>1551657025</td>
+             <td>tocopilla</td>
+             <td>-22.09</td>
+             <td>-70.2</td>
+             <td>CL</td>
+             <td>1551819916</td>
              <td></td>
+             <td>71.85</td>
              <td>71</td>
-             <td>68</td>
-             <td>9.44</td>
-             <td>8.23</td>
+             <td>12</td>
+             <td>6.96</td>
            </tr>
            <tr>
              <th>4</th>
-             <td>santa rosa</td>
-             <td>-36.62</td>
-             <td>-64.29</td>
-             <td>AR</td>
-             <td>1551657027</td>
+             <td>mongoumba</td>
+             <td>3.64</td>
+             <td>18.59</td>
+             <td>CD</td>
+             <td>1551810017</td>
              <td></td>
-             <td>90</td>
-             <td>92</td>
-             <td>7.87</td>
-             <td>68.17</td>
+             <td>79.23/td>
+             <td>80</td>
+             <td>48</td>
+             <td>1.92</td>
            </tr>
            <tr>
              <th>5</th>
-             <td>cavalcante</td>
-             <td>-13.79</td>
-             <td>-47.46</td>
-             <td>BR</td>
-             <td>1551657028</td>
+             <td>neokhorion</td>
+             <td>41.18</td>
+             <td>23.25</td>
+             <td>GR</td>
+             <td>1551819858</td>
              <td></td>
-             <td>94</td>
-             <td>64</td>
-             <td>2.62</td>
-             <td>68.48</td>
+             <td>55</td>
+             <td>84</td>
+             <td>32</td>
+             <td>1.92</td>
+           </tr>
+           <tr>
+             <th>6</th>
+             <td>nueva gerona</td>
+             <td>21.88</td>
+             <td>-82.8</td>
+             <td>CU</td>
+             <td>1551819918</td>
+             <td></td>
+             <td>82.83</td>
+             <td>77</td>
+             <td>48</td>
+             <td>0.58</td>
            </tr>
          </tbody>
        </table>
  </div>
 
-# Latitude vs Temperature Plot
+# Latitude vs Temperature (°F)
 
 
 ```python
@@ -1842,7 +1842,7 @@ plt.savefig('latitude_temp')
 ![png](latitude_temp.png)
 
 
-# Latitude vs. Humidity Plot
+# Latitude vs. Humidity (%)
 
 
 ```python
@@ -1868,7 +1868,7 @@ plt.savefig('latitude_humidity')
 ![png](latitude_humidity.png)
 
 
-# Latitude vs. Cloudiness Plot
+# Latitude vs. Cloudiness (%)
 
 
 ```python
@@ -1894,7 +1894,7 @@ plt.savefig('latitude_cloudiness')
 ![png](latitude_cloudiness.png)
 
 
-# Latitude vs. Wind Speed Plot
+# Latitude vs. Wind Speed (mph)
 
 
 ```python

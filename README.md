@@ -1757,7 +1757,7 @@ plt.savefig('latitude_temp')
 ```
 
 
-![png](output_11_0.png)
+![png](latitude_temp.png)
 
 
 # Latitude vs. Humidity Plot
@@ -1783,7 +1783,7 @@ plt.savefig('latitude_humidity')
 
 
 
-![png](output_13_1.png)
+![png](latitude_humidity.png)
 
 
 # Latitude vs. Cloudiness Plot
@@ -1809,7 +1809,7 @@ plt.savefig('latitude_cloudiness')
 
 
 
-![png](output_15_1.png)
+![png](latitude_cloudiness.png)
 
 
 # Latitude vs. Wind Speed Plot
@@ -1835,5 +1835,5 @@ plt.savefig('latitude_windspeed')
 
 
 
-![png](output_17_1.png)
+![png](latitude_windspeed.png)
 

@@ -1827,7 +1827,7 @@ city_samples.head()
 sampled_cities.plot(kind="scatter", x="Lat", y="Max Temp",
                     grid=True, color="blue", edgecolor = "black", s =150, linewidth = 2, 
                     figsize =(20, 15))
-plt.title('City Latitude vs. Max Temperature (12/21/17)', fontsize = 30)
+plt.title('Latitude vs. Max Temperature (12/21/17)', fontsize = 30)
 plt.ylabel('Max Temperature (F)',  fontsize = 25)
 plt.xlabel('Latitude', fontsize = 25)
 plt.grid(True)
@@ -1849,7 +1849,7 @@ plt.savefig('latitude_temp')
 sampled_cities.plot(kind="scatter",x="Lat",y="Humidity",
                     grid=True, color="blue", edgecolor = "black", s =150, linewidth = 2, 
                     figsize =(20, 15))
-plt.title('City Latitude vs. Humidity (12/21/17)', fontsize = 30)
+plt.title('Latitude vs. Humidity (12/21/17)', fontsize = 30)
 plt.ylabel('Humidity (%)', fontsize = 25)
 plt.xlabel('Latitude', fontsize = 25)
 plt.grid(True)
@@ -1875,7 +1875,7 @@ plt.savefig('latitude_humidity')
 sampled_cities.plot(kind="scatter",x="Lat",y="Cloudiness",
                     grid=True, color="blue", edgecolor = "black", s =150, linewidth = 2, 
                     figsize =(20, 15))
-plt.title('City Latitude vs. Cloudiness (12/21/17)', fontsize = 30)
+plt.title('Latitude vs. Cloudiness (12/21/17)', fontsize = 30)
 plt.ylabel('Cloudiness (%)', fontsize = 25)
 plt.xlabel('Latitude', fontsize = 25)
 plt.grid(True)
@@ -1901,7 +1901,7 @@ plt.savefig('latitude_cloudiness')
 sampled_cities.plot(kind="scatter",x="Lat",y="Wind Speed",
                     grid=True, color="blue", edgecolor = "black", s =150, linewidth = 2, 
                     figsize =(20, 15))
-plt.title('City Latitude vs. Wind Speed (12/21/17)', fontsize = 30)
+plt.title('Latitude vs. Wind Speed (12/21/17)', fontsize = 30)
 plt.ylabel('Wind Speed (mph)', fontsize = 25)
 plt.xlabel('Latitude', fontsize = 25)
 plt.grid(True)
